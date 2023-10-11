@@ -922,3 +922,89 @@ ID,Service,Voice,Input Set,Language,Text,Text Length,Latency (s)
 2891258899949956105,Coqui,Ana Florence,names,fr-CA,Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel.,162,4.98
 8261124934103739176,Coqui,Ana Florence,names,TL,Inaasahan ni Wendy Thompson mula sa Acme Supply sa Chattanooga na tatawagan mo sina Ryan McGarvey at JP Gooderham ngayong hapon. Hinihintay din ni Nick DePrey ang iyong tawag.,175,5.8
 4289015766796275396,Coqui,Ana Florence,names,cmn-CN,查塔努加 Acme Supply 的 Wendy Thompson 希望您今天下午给 Ryan McGarvey 和 JP Gooderham 打电话。,76,2.77
+6229208122201427231,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,en-US,Hello. how are you?,19,1.01
+7958749154037770467,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,en-US,The quick brown fox jumps over the lazy dog.,44,1.54
+9127153507792567095,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,en-US,Peter Piper picked a pack of pickled peppers.,45,1.34
+3119955615187347887,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,es-ES,Hola. ¿Cómo estás?,18,0.84
+1393143737996265002,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,es-ES,El rápido zorro marrón salta sobre el perro perezoso.,53,1.61
+4473564773317670888,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,es-ES,Peter Piper eligió un paquete de pimientos encurtidos.,54,1.18
+1544072436488253127,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,es-MX,Hola. ¿Cómo estás?,18,0.99
+7913222060864399587,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,es-MX,El rápido zorro marrón salta sobre el perro perezoso.,53,1.34
+6665114112446748836,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,es-MX,Peter Piper recogió un paquete de pimientos encurtidos.,55,1.14
+6403047917777530207,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,pt-PT,Olá. Como você está?,20,0.97
+1813204707737581586,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,pt-PT,A rápida raposa marrom pula sobre o cachorro preguiçoso.,56,1.39
+7571198974845738031,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,pt-PT,Peter Piper pegou um pacote de pimentos em conserva.,52,1.36
+5854816037745021672,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,fr-FR,Bonjour. Comment allez-vous ?,29,1.36
+3312081208105395532,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,fr-FR,Le rapide renard brun saute par-dessus le chien paresseux.,58,1.18
+9102827419751382936,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,fr-FR,Peter Piper a cueilli un paquet de poivrons marinés.,52,1.72
+5854816037745021672,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,fr-CA,Bonjour. Comment allez-vous ?,29,0.98
+1340462150540693630,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,fr-CA,Le renard brun saute par-dessus le chien paresseux.,51,1.26
+9102827419751382936,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,fr-CA,Peter Piper a cueilli un paquet de poivrons marinés.,52,1.18
+5826517328875290369,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,TL,Kumusta. Kumusta ka?,20,1.13
+8878610796642530689,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,TL,Tumalon ang mabilis na kayumanggi na lobos sa tamad na aso.,59,1.45
+7424025107910685839,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,TL,Pumili ni Peter Piper ng isang pakete ng mga inakado na paminta.,64,2.06
+2753566061010553296,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,cmn-CN,你好你好嗎,5,1.04
+1772878169888224673,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,cmn-CN,快速的棕色狐狸跳過懶狗。,12,1.05
+4876894412550653368,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,simple,cmn-CN,彼得·派珀摘了一包醃辣椒。,13,1.65
+4453315181375459322,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,en-US,What is your estimated time of arrival?,39,1.03
+2441973456836740517,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,en-US,What is your estimated time of arrival?!,40,1.05
+2002453948678610536,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,en-US,What is your estimated time of arrival!,39,1.03
+8696266336822283760,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,en-US,WHAT IS YOUR ESTIMATED TIME OF ARIVAL,37,1.33
+3206625986702589767,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,es-ES,¿Cuál es su hora estimada de llegada?,37,1.23
+6641945196796899676,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,es-ES,¡Cuál es su hora estimada de llegada?,37,1.16
+7041395700460419126,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,es-ES,¡Cuál es su hora estimada de llegada!,37,1.16
+6498998247760228600,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,es-ES,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,1.01
+3206625986702589767,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,es-MX,¿Cuál es su hora estimada de llegada?,37,1.03
+6641945196796899676,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,es-MX,¡Cuál es su hora estimada de llegada?,37,1.16
+7041395700460419126,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,es-MX,¡Cuál es su hora estimada de llegada!,37,1.19
+6498998247760228600,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,es-MX,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,1.04
+1827590844261157279,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,pt-PT,Qual é a sua hora estimada de chegada?,38,1.19
+1002513535738039303,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,pt-PT,Qual é a sua hora estimada de chegada?!,39,1.39
+1545390588344382125,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,pt-PT,Qual é a sua hora estimada de chegada!,38,1.33
+6496903980752484766,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,pt-PT,QUAL É A SUA HORA ESTIMADA DE CHEGADA,37,1.76
+2583722523496616833,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?,42,0.89
+5011796665189727274,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée !,42,0.97
+2117468830610299406,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?!,43,1.19
+4794077602188019122,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,fr-FR,QUELLE EST VOTRE HEURE D'ARRIVÉE ESTIMÉE,40,0.91
+344378308154147739,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?,41,1.05
+261865691977593679,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?!,42,1.6
+1510795918820740206,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue !,41,1.11
+4694375911364603944,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,fr-CA,QUELLE EST VOTRE HEURE D'ARRIVÉE PRÉVUE,39,1.05
+2914097049809269929,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?,43,1.12
+6560956495069655067,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?!,44,1.16
+7767140131609373793,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating!,43,1.43
+3330976773937070068,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,TL,ANO ANG IYONG TINATAYANG ORAS NG PAGDATING,42,1.11
+581836003119241355,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,cmn-CN,您的預計抵達時間是多少？,12,1.35
+1594010492094156940,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,cmn-CN,您的預計抵達時間是多少 ?!,14,1.41
+2203774778134233729,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,cmn-CN,您的預計抵達時間是多少 !,13,1.48
+9068537724300411065,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,punctuation,cmn-CN,您的預計抵達時間是多少,11,1.55
+697759463721931071,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,emojis,en-US,"🚨 Urgent, please read. 🚨",24,1.46
+7788333167955352883,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,emojis,en-US,🚨👀🚚🥇📦👇,6,1.09
+8393942259048285564,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,emojis,es-ES,"🚨 Urgente, por favor lee. 🚨",27,0.96
+7788333167955352883,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,emojis,es-ES,🚨👀🚚🥇📦👇,6,0.93
+6002723557064450512,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,emojis,es-MX,"🚨 Urgente, por favor lea. 🚨",27,1.47
+7788333167955352883,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,emojis,es-MX,🚨👀🚚🥇📦👇,6,0.94
+9028129010172798525,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,emojis,pt-PT,"🚨 Urgente, por favor, leia. 🚨",29,1.66
+7788333167955352883,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,emojis,pt-PT,🚨👀🚚🥇📦👇,6,0.66
+4156404424369270659,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,emojis,fr-FR,"🚨 C'est urgent, veuillez lire. 🚨",32,0.99
+7788333167955352883,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,emojis,fr-FR,🚨👀🚚🥇📦👇,6,0.77
+6799631694091445820,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,emojis,fr-CA,"🚨 Urgent, veuillez lire. 🚨",26,1.03
+7788333167955352883,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,emojis,fr-CA,🚨👀🚚🥇📦👇,6,0.84
+8713695511384510044,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,emojis,TL,"🚨 Kagad, mangyaring basahin. 🚨",30,0.96
+7788333167955352883,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,emojis,TL,🚨👀🚚🥇📦👇,6,1.09
+1721929253414719251,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,emojis,cmn-CN,🚨 緊急，請閱讀。 🚨,11,1.01
+7788333167955352883,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,emojis,cmn-CN,🚨👀🚚🥇📦👇,6,0.97
+332048660876530248,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,numbers_and_acronyms,en-US,The receiver is located at 1567 W Oakley St. Take the RH turn at Main St. Whats your ETA? They are expecting you at 2:30pm CT. Go to https://espn.com to learn more.,164,3.43
+3874181386268605647,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,numbers_and_acronyms,es-ES,El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información.,186,3.57
+2349248066288338023,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,numbers_and_acronyms,es-MX,El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información.,186,3.57
+3464606449592215185,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,numbers_and_acronyms,pt-PT,O receptor está localizado em 1567 W Oakley St. Faça a curva RH na Main St. Qual é o seu HEC? Eles estão esperando você às 14h30 CT. Acesse https://espn.com para saber mais.,173,5.63
+4862131251720939197,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,numbers_and_acronyms,fr-FR,Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus.,184,3.42
+4862131251720939197,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,numbers_and_acronyms,fr-CA,Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus.,184,3.49
+9031688318603907936,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,numbers_and_acronyms,TL,Ang receiver ay matatagpuan sa 1567 W Oakley St. Lumiko sa RH sa Main St. Ano ang iyong ETA? Inaasahan ka nila sa 2:30pm CT. Pumunta sa https://espn.com para matuto pa.,168,3.95
+7021640397647273624,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,numbers_and_acronyms,cmn-CN,接收器位于 1567 W Oakley St。在 Main St 右转。您的预计到达时间是多少？ 他们将于中部时间下午 2:30 等您。 请访问 https://espn.com 了解更多信息。,97,4.63
+5695194059233207525,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,names,en-US,Wendy Thompson from Acme Supply in Chattanooga is expecting you to call Ryan McGarvey and JP Gooderham this afternoon. Nick DePrey is also awaiting your call.,158,2.49
+682442076149175021,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,names,es-ES,Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada.,151,2.7
+682442076149175021,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,names,es-MX,Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada.,151,2.46
+2838957428423581476,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,names,pt-PT,"Wendy Thompson, da Acme Supply em Chattanooga, espera que você ligue para Ryan McGarvey e JP Gooderham esta tarde. Nick DePrey também está aguardando sua ligação.",162,5.36
+562033571205966446,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,names,fr-FR,Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel.,162,2.52
+562033571205966446,PlayHT,voice-cloning-zero-shot/d9ff78ba-d016-47f6-b0ef-dd630f59414e/,names,fr-CA,Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel.,162,22.79

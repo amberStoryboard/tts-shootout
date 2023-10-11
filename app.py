@@ -17,7 +17,7 @@ data['ID'] = [str(i) for i in data['ID']]
 # Sidebar
 pages = ["Overview"] + list(data["Service"].unique())
 selected_page = st.sidebar.selectbox("Select a Page", pages)
-services = ['Amazon Polly*', 'Eleven Labs*', 'Google Cloud TTS*', 'Coqui*', 'Wellsaid', 'Bark', 'Speechify', 'Facebook/mms-tts']
+services = ['Amazon Polly*', 'Eleven Labs*', 'Google Cloud TTS*', 'PlayHT*', 'Coqui*', 'Wellsaid', 'Bark', 'Speechify', 'Facebook/mms-tts']
 
 def render_overview_page():
     st.title("Overview")
@@ -36,7 +36,7 @@ def render_overview_page():
     st.write("## Services Tested")
     for item in services:
         st.write(f"- {item}")
-    st.write("\* View audio and  using dropdown to the left")
+    st.write("\* View audio and data using dropdown to the left")
 
     st.write("## All Data")
     csv = data.to_csv(index=False)
@@ -68,8 +68,11 @@ def render_service_page(service_selected):
 
     # Display statistics for the selected service
     if service_selected == "Coqui":
-        st.write(":red[Does not support CN and cannot handle multiligual synthesis.]")
+        st.write(":red[Does not support CN and cannot handle multiligual synthesis. + 250 Character Limit (async)]")
         st.write("[Pricing](https://coqui.ai/pricing)")
+    elif service_selected == "PlayHT":
+        st.write(":red[Only supports english voices as default (can add custom voices) + 200 Character Limit (async)]")
+        st.write("[Pricing](https://play.ht/pricing/)")
     elif service_selected == "Eleven Labs":
         st.write("[Pricing](https://elevenlabs.io/pricing)")
     elif service_selected == "Google Cloud TTS":
@@ -104,6 +107,8 @@ def render_service_page(service_selected):
             if clicked:
                 if service_selected == "Coqui":
                     st.audio(f"https://content-intelligence-output-dev.s3.us-east-2.amazonaws.com/TTS/outputs/audio/Coqui/{row['ID']}.wav", format='audio/wav')
+                elif service_selected == "PlayHT":
+                    st.audio(f"https://content-intelligence-output-dev.s3.us-east-2.amazonaws.com/TTS/outputs/audio/PlayHT/{row['ID']}.wav", format='audio/wav')
                 elif service_selected != "Coqui": 
                     st.audio(f"https://content-intelligence-output-dev.s3.us-east-2.amazonaws.com/TTS/outputs/audio/{row['Service'].replace(' ', '+')}/{row['ID']}.mp3", format='audio/mp3')
                 else:
