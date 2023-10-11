@@ -6,7 +6,7 @@ import json
 
 st.set_page_config(page_title='TTS Shootout')
 # Load the CSV data
-@st.cache
+@st.cache_data
 def load_data():
     return pd.read_csv("data.csv")
 
@@ -17,7 +17,7 @@ pages = ["Overview"] + list(data["Service"].unique())
 selected_page = st.sidebar.selectbox("Select a Page", pages)
 services = ['Amazon Polly*', 'Eleven Labs*', 'Google Cloud TTS*', 'Coqui*', 'Wellsaid', 'Bark', 'Speechify', 'Facebook/mms-tts']
 
-def render_overview_page(data):
+def render_overview_page():
     st.title("Overview")
     st.write("## Services Tested")
     for item in services:
@@ -32,13 +32,16 @@ def render_overview_page(data):
         js = json.load(file)
     st.json(js)
 
-def render_service_page(data, service_selected):
+def render_service_page(service_selected):
     st.title(f"{service_selected} Details")
 
     # Filtering data by the selected service
     filtered_data = data[data["Service"] == service_selected]
 
+    languages = filtered_data["Language"].unique()
+
     st.write("## Stats")
+
     # Display statistics for the selected service
     if service_selected == "Coqui":
         st.write(":red[Does not support CN and cannot handle multiligual synthesis.]")
@@ -50,6 +53,13 @@ def render_service_page(data, service_selected):
     elif service_selected == "Amazon Polly":
         st.write("[Pricing](https://aws.amazon.com/polly/pricing/)")
 
+    st.write("### Latency")
+    # Average latency for the entire service
+    avg_latency = filtered_data["Latency (s)"].mean()
+    st.write(f"Average Latency for {service_selected} OVERALL: {avg_latency:.2f} seconds")
+    latency_per_lang = filtered_data.groupby("Language")["Latency (s)"].mean()
+    for lang, latency in latency_per_lang.items():
+        st.write(f"{lang}: {latency:.2f} seconds")
     st.write('### Data')
     st.write(filtered_data)
 
@@ -64,9 +74,8 @@ def render_service_page(data, service_selected):
         lang_data = filtered_data_voice[filtered_data_voice["Language"] == lang]
         
         for index, row in lang_data.iterrows():
-            row_display = ", ".join(row[1:].map(str).values)  # skip the ID for the display
             row_display = f"{row['Text']}; latency: {row['Latency (s)']} seconds"
-            clicked = st.button(row_display)
+            clicked = st.button(row_display, key=f"{row['ID']}-{index}")
             
             if clicked:
                 if service_selected == "Coqui":
@@ -77,6 +86,6 @@ def render_service_page(data, service_selected):
                     st.write("Audio file not found.")
 
 if selected_page == "Overview":
-    render_overview_page(data)
+    render_overview_page()
 else:
-    render_service_page(data, selected_page)
+    render_service_page(selected_page)
