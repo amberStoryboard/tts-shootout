@@ -25,6 +25,16 @@ def render_overview_page():
     st.write("\* View audio and  using dropdown to the left")
 
     st.write("## All Data")
+    csv = data.to_csv(index=False)
+    csv_bytes = csv.encode()
+
+    st.download_button(
+        label="Download CSV",
+        data=csv_bytes,
+        file_name="data.csv",
+        mime="text/csv"
+    )
+
     st.write(data)
 
     st.write("## Inputs Used")
