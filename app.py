@@ -15,7 +15,7 @@ data['ID'] = [str(i) for i in data['ID']]
 
 
 # Sidebar
-pages = ["Overview"] + list(data["Service"].unique())
+pages = ["Overview"] + list(data["Service"].unique()) + ["Other"]
 selected_page = st.sidebar.selectbox("Select a Page", pages)
 services = ['Amazon Polly*', 'Eleven Labs*', 'Google Cloud TTS*', 'PlayHT*', 'Coqui*', 'Wellsaid', 'Bark', 'Speechify', 'Facebook/mms-tts']
 
@@ -113,8 +113,36 @@ def render_service_page(service_selected):
                     st.audio(f"https://content-intelligence-output-dev.s3.us-east-2.amazonaws.com/TTS/outputs/audio/{row['Service'].replace(' ', '+')}/{row['ID']}.mp3", format='audio/mp3')
                 else:
                     st.write("Audio file not found.")
+def render_other_page():
+    st.title('Other')
+    st.write("# Bark")
+    st.write(":red[These were generated using the HuggingFace model directly. Note the varied quality, voices, and sometimes word fragments.]")
+    st.audio('https://content-intelligence-output-dev.s3.us-east-2.amazonaws.com/TTS/outputs/audio/Bark/2749614339936119285.wav', format='audio/wav')
+    st.audio('https://content-intelligence-output-dev.s3.us-east-2.amazonaws.com/TTS/outputs/audio/Bark/6004853653590609627.wav', format='audio/wav')
+    st.audio('https://content-intelligence-output-dev.s3.us-east-2.amazonaws.com/TTS/outputs/audio/Bark/3835215678970929748.mp3', format='audio/mp3')
+    st.audio('https://content-intelligence-output-dev.s3.us-east-2.amazonaws.com/TTS/outputs/audio/Bark/4815884020050789919.mp3', format='audio/mp3')
+    st.audio('https://content-intelligence-output-dev.s3.us-east-2.amazonaws.com/TTS/outputs/audio/Bark/6154106207730663268.mp3', format='audio/mp3')
+    st.audio('https://content-intelligence-output-dev.s3.us-east-2.amazonaws.com/TTS/outputs/audio/Bark/6154106207730663268.wav', format='audio/wav')
+    st.audio('https://content-intelligence-output-dev.s3.us-east-2.amazonaws.com/TTS/outputs/audio/Bark/6506613826820044038.wav', format='audio/wav')
+    st.audio('https://content-intelligence-output-dev.s3.us-east-2.amazonaws.com/TTS/outputs/audio/Bark/8455871188536666885.wav', format='audio/wav')
 
+    st.write("# Facebook MMS-TTS")
+    st.write(":red[These were also generated using the HuggingFace model directly.]")
+    st.audio('https://content-intelligence-output-dev.s3.us-east-2.amazonaws.com/TTS/outputs/audio/Facebook/MMS-TTS-ENG/1597225242755826339.mp3', format='audio/mp3')
+    st.audio('https://content-intelligence-output-dev.s3.us-east-2.amazonaws.com/TTS/outputs/audio/Facebook/MMS-TTS-ENG/5603296773089309171.mp3', format='audio/mp3')
+    st.audio('https://content-intelligence-output-dev.s3.us-east-2.amazonaws.com/TTS/outputs/audio/Facebook/MMS-TTS-ENG/8867981403509797570.mp3', format='audio/mp3')
+
+
+    st.write("# Speechify and Wellsaid")
+    st.write('Both Speechify and Wellsaid do not have public apis or exportable audio but audio is able to be generated using their studio interface on their website.')
+    st.write('[Speechify](https://studio.speechify.com/dashboard)')
+    st.write('- Seems optimized for documents and books')
+    st.write('- :red[Only available on web and iOS]')
+    st.write('[Wellsaid](https://studio.wellsaidlabs.com/dashboard/projects/personal)')
+    st.write('- Use case seems to be better suited for scripts and promotional content')
 if selected_page == "Overview":
     render_overview_page()
+elif selected_page == "Other":
+    render_other_page()
 else:
     render_service_page(selected_page)
