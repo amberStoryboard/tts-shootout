@@ -11,6 +11,8 @@ def load_data():
     return pd.read_csv("data.csv")
 
 data = load_data()
+data['ID'] = [str(i) for i in data['ID']]
+
 
 # Sidebar
 pages = ["Overview"] + list(data["Service"].unique())
@@ -19,6 +21,18 @@ services = ['Amazon Polly*', 'Eleven Labs*', 'Google Cloud TTS*', 'Coqui*', 'Wel
 
 def render_overview_page():
     st.title("Overview")
+    st.write("Fastest: Amazon Polly")
+    st.write("Most Natural Sounding: Eleven Labs")
+    st.write("Current Overall Ranking (Subjective)")
+    # Sample numbered list using markdown
+    markdown_content = """
+    1. Amazon Polly
+    2. Google Cloud TTS
+    3. Eleven Labs
+    """
+
+    st.markdown(markdown_content)
+
     st.write("## Services Tested")
     for item in services:
         st.write(f"- {item}")
