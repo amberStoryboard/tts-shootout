@@ -1,0 +1,924 @@
+ID,Service,Voice,Input Set,Language,Text,Text Length,Latency (s)
+8925021586661188624,Eleven Labs,Arayah,simple,en-US,Hello. how are you?,19,2.92
+51885777537526446,Eleven Labs,Arayah,simple,en-US,The quick brown fox jumps over the lazy dog.,44,1.58
+8913588063236013244,Eleven Labs,Arayah,simple,en-US,Peter Piper picked a pack of pickled peppers.,45,1.12
+2165002224433894268,Eleven Labs,Arayah,simple,es-ES,Hola. ¿Cómo estás?,18,1.2
+8188199309500719956,Eleven Labs,Arayah,simple,es-ES,El rápido zorro marrón salta sobre el perro perezoso.,53,1.86
+7212909890156092098,Eleven Labs,Arayah,simple,es-ES,Peter Piper eligió un paquete de pimientos encurtidos.,54,1.32
+2165002224433894268,Eleven Labs,Arayah,simple,es-MX,Hola. ¿Cómo estás?,18,1.17
+8188199309500719956,Eleven Labs,Arayah,simple,es-MX,El rápido zorro marrón salta sobre el perro perezoso.,53,1.22
+1371550544522649601,Eleven Labs,Arayah,simple,es-MX,Peter Piper recogió un paquete de pimientos encurtidos.,55,1.22
+4753729290954901206,Eleven Labs,Arayah,simple,pt-PT,Olá. Como você está?,20,1.21
+6356836042471887072,Eleven Labs,Arayah,simple,pt-PT,A rápida raposa marrom pula sobre o cachorro preguiçoso.,56,2.06
+6562565795391719012,Eleven Labs,Arayah,simple,pt-PT,Peter Piper pegou um pacote de pimentos em conserva.,52,1.23
+5862655455577776699,Eleven Labs,Arayah,simple,fr-FR,Bonjour. Comment allez-vous ?,29,2.12
+3932642142449331510,Eleven Labs,Arayah,simple,fr-FR,Le rapide renard brun saute par-dessus le chien paresseux.,58,1.77
+1425057066655084083,Eleven Labs,Arayah,simple,fr-FR,Peter Piper a cueilli un paquet de poivrons marinés.,52,2.04
+5862655455577776699,Eleven Labs,Arayah,simple,fr-CA,Bonjour. Comment allez-vous ?,29,0.93
+6400332869195355130,Eleven Labs,Arayah,simple,fr-CA,Le renard brun saute par-dessus le chien paresseux.,51,2.1
+1425057066655084083,Eleven Labs,Arayah,simple,fr-CA,Peter Piper a cueilli un paquet de poivrons marinés.,52,1.31
+750049112243284312,Eleven Labs,Arayah,simple,TL,Kumusta. Kumusta ka?,20,1.54
+8583836882064948772,Eleven Labs,Arayah,simple,TL,Tumalon ang mabilis na kayumanggi na lobos sa tamad na aso.,59,1.34
+9069295608496912676,Eleven Labs,Arayah,simple,TL,Pumili ni Peter Piper ng isang pakete ng mga inakado na paminta.,64,1.68
+728551199659977059,Eleven Labs,Arayah,simple,cmn-CN,你好你好嗎,5,0.83
+4688018980944431817,Eleven Labs,Arayah,simple,cmn-CN,快速的棕色狐狸跳過懶狗。,12,1.06
+4396121200191723828,Eleven Labs,Arayah,simple,cmn-CN,彼得·派珀摘了一包醃辣椒。,13,1.37
+6837193458680211155,Eleven Labs,Arayah,punctuation,en-US,What is your estimated time of arival?,38,1.19
+5501091580862937225,Eleven Labs,Arayah,punctuation,en-US,What is your estimated time of arival?!,39,3.14
+7135115157560503405,Eleven Labs,Arayah,punctuation,en-US,What is your estimated time of arival!,38,1.95
+8025606214448590429,Eleven Labs,Arayah,punctuation,en-US,WHAT IS YOUR ESTIMATED TIME OF ARIVIAL,38,1.46
+7831771835446930246,Eleven Labs,Arayah,punctuation,es-ES,¿Cuál es su hora estimada de llegada?,37,1.11
+166951275643399112,Eleven Labs,Arayah,punctuation,es-ES,¡Cuál es su hora estimada de llegada?,37,3.67
+7573955906917710787,Eleven Labs,Arayah,punctuation,es-ES,¡Cuál es su hora estimada de llegada!,37,1.21
+6264644438869561392,Eleven Labs,Arayah,punctuation,es-ES,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,2.89
+7831771835446930246,Eleven Labs,Arayah,punctuation,es-MX,¿Cuál es su hora estimada de llegada?,37,1.11
+166951275643399112,Eleven Labs,Arayah,punctuation,es-MX,¡Cuál es su hora estimada de llegada?,37,1.02
+7573955906917710787,Eleven Labs,Arayah,punctuation,es-MX,¡Cuál es su hora estimada de llegada!,37,1.18
+6264644438869561392,Eleven Labs,Arayah,punctuation,es-MX,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,1.71
+7666379183136786365,Eleven Labs,Arayah,punctuation,pt-PT,Qual é a sua hora estimada de chegada?,38,2.21
+5021236469771661559,Eleven Labs,Arayah,punctuation,pt-PT,Qual é a sua hora estimada de chegada?!,39,2.3
+2014991941174067400,Eleven Labs,Arayah,punctuation,pt-PT,Qual é a sua hora estimada de chegada!,38,1.11
+7402891813984987785,Eleven Labs,Arayah,punctuation,pt-PT,QUAL É A SUA HORA ESTIMADA DE CHEGADA,37,1.07
+8062487703108261617,Eleven Labs,Arayah,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?,42,1.14
+8500438784852037656,Eleven Labs,Arayah,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée !,42,1.23
+782038275834647601,Eleven Labs,Arayah,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?!,43,1.08
+3021617756412487453,Eleven Labs,Arayah,punctuation,fr-FR,QUELLE EST VOTRE HEURE D'ARRIVÉE ESTIMÉE,40,2.01
+5946140182619451000,Eleven Labs,Arayah,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?,41,2.25
+4866436179340973181,Eleven Labs,Arayah,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?!,42,1.7
+8848588523522952700,Eleven Labs,Arayah,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue !,41,1.06
+8064623276654009983,Eleven Labs,Arayah,punctuation,fr-CA,QUELLE EST VOTRE HEURE D'ARRIVÉE PRÉVUE,39,1.97
+4209814435190064508,Eleven Labs,Arayah,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?,43,1.37
+2784276928602308043,Eleven Labs,Arayah,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?!,44,1.16
+1204864723463415071,Eleven Labs,Arayah,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating!,43,1.21
+5082339332614266659,Eleven Labs,Arayah,punctuation,TL,ANO ANG IYONG TINATAYANG ORAS NG PAGDATING,42,1.22
+7886956240442034681,Eleven Labs,Arayah,punctuation,cmn-CN,您的預計抵達時間是多少？,12,1.06
+2197403186592872498,Eleven Labs,Arayah,punctuation,cmn-CN,您的預計抵達時間是多少 ?!,14,1.12
+2205317416793980068,Eleven Labs,Arayah,punctuation,cmn-CN,您的預計抵達時間是多少 !,13,1.61
+6087551719013752517,Eleven Labs,Arayah,punctuation,cmn-CN,您的預計抵達時間是多少,11,1.78
+3004261126142465640,Eleven Labs,Arayah,emojis,en-US,"🚨 Urgent, please read. 🚨",24,0.81
+8246021018074882879,Eleven Labs,Arayah,emojis,en-US,🚨👀🚚🥇📦👇,6,1.05
+2509758638360081379,Eleven Labs,Arayah,emojis,es-ES,"🚨 Urgente, por favor lee. 🚨",27,0.93
+8246021018074882879,Eleven Labs,Arayah,emojis,es-ES,🚨👀🚚🥇📦👇,6,1.62
+9153613790583379064,Eleven Labs,Arayah,emojis,es-MX,"🚨 Urgente, por favor lea. 🚨",27,1.04
+8246021018074882879,Eleven Labs,Arayah,emojis,es-MX,🚨👀🚚🥇📦👇,6,1.28
+7429739004681103999,Eleven Labs,Arayah,emojis,pt-PT,"🚨 Urgente, por favor, leia. 🚨",29,1.5
+8246021018074882879,Eleven Labs,Arayah,emojis,pt-PT,🚨👀🚚🥇📦👇,6,2.14
+1546910957959074124,Eleven Labs,Arayah,emojis,fr-FR,"🚨 C'est urgent, veuillez lire. 🚨",32,1.78
+8246021018074882879,Eleven Labs,Arayah,emojis,fr-FR,🚨👀🚚🥇📦👇,6,1.18
+4581489256287107400,Eleven Labs,Arayah,emojis,fr-CA,"🚨 Urgent, veuillez lire. 🚨",26,2.13
+8246021018074882879,Eleven Labs,Arayah,emojis,fr-CA,🚨👀🚚🥇📦👇,6,1.16
+2939784784324738155,Eleven Labs,Arayah,emojis,TL,"🚨 Kagad, mangyaring basahin. 🚨",30,2.87
+8246021018074882879,Eleven Labs,Arayah,emojis,TL,🚨👀🚚🥇📦👇,6,3.22
+4570215872077627048,Eleven Labs,Arayah,emojis,cmn-CN,🚨 緊急，請閱讀。 🚨,11,1.88
+8246021018074882879,Eleven Labs,Arayah,emojis,cmn-CN,🚨👀🚚🥇📦👇,6,0.66
+6460276623089429124,Eleven Labs,Arayah,formatted,en-US,"We met with 4 stakeholders from Grand Island Express yesterday. Good meeting. They're engaged. Huge potential to improve their predicability of delivery and save them time in what currently requires lots of phone calls and emails between dispatcher and driver. Takeaways:
+ - The Fleet Manager is the person we are optimizing for.
+ - They stand the most to gain from a voice messaging solution where they can have active 1-1 conversations with 50+ drivers in a single day to coordinate receipt timelines and re-route as necessary.
+ - There are some language barriers which we can solve partially with translated transcripts (today) and fully with audio2audio translations in the future
+ - This workflow has direct and indirect bottom line potential: cost savings vs the translation service they use today, greater predictability for customers = improved reputation and bookings, potential to deliver faster and limit driver downtime because they can more readily predict delivery timelines and solve for receivership and backhaul implications",1041,13.54
+2543200995148744128,Eleven Labs,Arayah,formatted,es-ES,"Ayer nos reunimos con 4 partes interesadas de Grand Island Express. Buena reunión. Están comprometidos. Enorme potencial para mejorar su previsibilidad de entrega y ahorrarles tiempo en lo que actualmente requiere muchas llamadas telefónicas y correos electrónicos entre el despachador y el conductor. Conclusiones:
+ - El administrador de flota es la persona para la que estamos optimizando.
+ - Son los que más pueden ganar con una solución de mensajería de voz donde pueden tener conversaciones individuales activas con más de 50 conductores en un solo día para coordinar los plazos de recepción y desviar la ruta según sea necesario.
+ - Existen algunas barreras del idioma que podemos resolver parcialmente con transcripciones traducidas (hoy) y completamente con traducciones audio2audio en el futuro.
+ - Este flujo de trabajo tiene potencial directo e indirecto: ahorro de costos en comparación con el servicio de traducción que utilizan hoy, mayor previsibilidad para los clientes. = reputación y reservas mejoradas, potencial para realizar entregas más rápido y limitar el tiempo de inactividad de los conductores porque pueden predecir más fácilmente los plazos de entrega y resolver las implicaciones de la administración judicial y el backhaul",1252,16.91
+2543200995148744128,Eleven Labs,Arayah,formatted,es-MX,"Ayer nos reunimos con 4 partes interesadas de Grand Island Express. Buena reunión. Están comprometidos. Enorme potencial para mejorar su previsibilidad de entrega y ahorrarles tiempo en lo que actualmente requiere muchas llamadas telefónicas y correos electrónicos entre el despachador y el conductor. Conclusiones:
+ - El administrador de flota es la persona para la que estamos optimizando.
+ - Son los que más pueden ganar con una solución de mensajería de voz donde pueden tener conversaciones individuales activas con más de 50 conductores en un solo día para coordinar los plazos de recepción y desviar la ruta según sea necesario.
+ - Existen algunas barreras del idioma que podemos resolver parcialmente con transcripciones traducidas (hoy) y completamente con traducciones audio2audio en el futuro.
+ - Este flujo de trabajo tiene potencial directo e indirecto: ahorro de costos en comparación con el servicio de traducción que utilizan hoy, mayor previsibilidad para los clientes. = reputación y reservas mejoradas, potencial para realizar entregas más rápido y limitar el tiempo de inactividad de los conductores porque pueden predecir más fácilmente los plazos de entrega y resolver las implicaciones de la administración judicial y el backhaul",1252,18.2
+2107532271344083576,Eleven Labs,Arayah,formatted,pt-PT,"Ontem nos reunimos com 4 partes interessadas da Grand Island Express. Bom encontro. Eles estão noivos. Enorme potencial para melhorar a previsibilidade de entrega e economizar tempo no que atualmente exige muitos telefonemas e e-mails entre o despachante e o motorista. Conclusões:
+ - O Gerente de Frota é a pessoa para quem estamos otimizando.
+ - Eles têm mais a ganhar com uma solução de mensagens de voz onde podem ter conversas individuais ativas com mais de 50 motoristas em um único dia para coordenar os cronogramas de recebimento e redirecionar conforme necessário.
+ - Existem algumas barreiras linguísticas que podemos resolver parcialmente com transcrições traduzidas (hoje) e totalmente com traduções audio2audio no futuro
+ - Este fluxo de trabalho tem potencial direto e indireto de resultados: economia de custos em comparação com o serviço de tradução que utilizam hoje, maior previsibilidade para os clientes = melhor reputação e reservas, potencial para entregar mais rapidamente e limitar o tempo de inatividade do motorista porque eles podem prever mais prontamente os prazos de entrega e resolver implicações de recuperação judicial e backhaul",1162,15.55
+1792843338318641074,Eleven Labs,Arayah,formatted,fr-FR,"Nous avons rencontré hier 4 parties prenantes de Grand Island Express. Bonne rencontre. Ils sont fiancés. Un énorme potentiel pour améliorer leur prévisibilité de livraison et leur faire gagner du temps dans ce qui nécessite actuellement de nombreux appels téléphoniques et e-mails entre le répartiteur et le chauffeur. À retenir :
+ - Le gestionnaire de flotte est la personne pour laquelle nous optimisons.
+ - Ce sont eux qui ont le plus à gagner d'une solution de messagerie vocale qui leur permet d'avoir des conversations actives en tête-à-tête avec plus de 50 chauffeurs en une seule journée pour coordonner les délais de réception et réacheminer si nécessaire.
+ - Il existe certaines barrières linguistiques que nous pouvons résoudre partiellement avec des transcriptions traduites (aujourd'hui) et entièrement avec des traductions audio-audio à l'avenir.
+ - Ce flux de travail a un potentiel de résultat direct et indirect : économies de coûts par rapport au service de traduction qu'ils utilisent aujourd'hui, plus grande prévisibilité pour les clients. = amélioration de la réputation et des réservations, possibilité de livrer plus rapidement et de limiter les temps d'arrêt des chauffeurs, car ils peuvent plus facilement prédire les délais de livraison et résoudre les implications en matière de mise sous séquestre et de transport.",1344,16.46
+1792843338318641074,Eleven Labs,Arayah,formatted,fr-CA,"Nous avons rencontré hier 4 parties prenantes de Grand Island Express. Bonne rencontre. Ils sont fiancés. Un énorme potentiel pour améliorer leur prévisibilité de livraison et leur faire gagner du temps dans ce qui nécessite actuellement de nombreux appels téléphoniques et e-mails entre le répartiteur et le chauffeur. À retenir :
+ - Le gestionnaire de flotte est la personne pour laquelle nous optimisons.
+ - Ce sont eux qui ont le plus à gagner d'une solution de messagerie vocale qui leur permet d'avoir des conversations actives en tête-à-tête avec plus de 50 chauffeurs en une seule journée pour coordonner les délais de réception et réacheminer si nécessaire.
+ - Il existe certaines barrières linguistiques que nous pouvons résoudre partiellement avec des transcriptions traduites (aujourd'hui) et entièrement avec des traductions audio-audio à l'avenir.
+ - Ce flux de travail a un potentiel de résultat direct et indirect : économies de coûts par rapport au service de traduction qu'ils utilisent aujourd'hui, plus grande prévisibilité pour les clients. = amélioration de la réputation et des réservations, possibilité de livrer plus rapidement et de limiter les temps d'arrêt des chauffeurs, car ils peuvent plus facilement prédire les délais de livraison et résoudre les implications en matière de mise sous séquestre et de transport.",1344,17.56
+5081343592435033146,Eleven Labs,Arayah,formatted,TL,"Nakipagpulong kami sa 4 na stakeholder mula sa Grand Island Express kahapon. Magandang pagpupulong. engaged na sila. Malaking potensyal na mapabuti ang kanilang predicability ng paghahatid at makatipid sa kanila ng oras sa kasalukuyang nangangailangan ng maraming tawag sa telepono at email sa pagitan ng dispatcher at driver. Takeaways:
+ - Ang Fleet Manager ay ang taong ino-optimize namin.
+ - Pinakamahusay silang makamit mula sa isang voice messaging solution kung saan maaari silang magkaroon ng aktibong 1-1 na pag-uusap sa 50+ na driver sa isang araw upang i-coordinate ang mga timeline ng resibo at muling ruta kung kinakailangan.
+ - Mayroong ilang mga hadlang sa wika na bahagyang malulutas namin gamit ang mga isinaling transcript (ngayon) at ganap na may mga pagsasalin ng audio2audio sa hinaharap
+ - Ang daloy ng trabaho na ito ay may direkta at hindi direktang potensyal na pang-ibabaw: makatipid sa gastos kumpara sa serbisyo ng pagsasalin na ginagamit nila ngayon, mas mahuhulaan para sa mga customer = pinahusay na reputasyon at mga booking, potensyal na makapaghatid ng mas mabilis at limitahan ang downtime ng driver dahil mas madali nilang mahulaan ang mga timeline ng paghahatid at malutas ang mga implikasyon ng receivership at backhaul",1256,20.35
+3604690430150103113,Eleven Labs,Arayah,formatted,cmn-CN,"昨天我们会见了 Grand Island Express 的 4 位利益相关者。 很好的会议。 他们订婚了。 提高送货的可预测性并节省时间的巨大潜力，因为目前调度员和司机之间需要大量的电话和电子邮件。 要点：
+ - 车队经理是我们正在优化的人。
+ - 他们从语音消息解决方案中获益最多，在该解决方案中，他们可以在一天内与 50 多名司机进行积极的 1-1 对话，以协调收货时间表并根据需要重新安排路线。
+ - 有一些语言障碍，我们可以通过翻译文本（今天）部分解决，并在未来通过音频到音频翻译完全解决
+ - 此工作流程具有直接和间接的底线潜力：与他们今天使用的翻译服务相比，可以节省成本，为客户提供更高的可预测性 = 提高声誉和预订量，加快交付速度并限制司机停机时间的潜力，因为他们可以更轻松地预测交付时间并解决接管和回程影响",362,16.26
+8629530001482365224,Eleven Labs,Arayah,numbers_and_acronyms,en-US,The receiver is located at 1567 W Oakley St. Take the RH turn at Main St. Whats your ETA? They are expecting you at 2:30pm CT. Go to https://espn.com to learn more.,164,3.9
+6457515196715813121,Eleven Labs,Arayah,numbers_and_acronyms,es-ES,El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información.,186,4.09
+6457515196715813121,Eleven Labs,Arayah,numbers_and_acronyms,es-MX,El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información.,186,4.62
+6611432308979351548,Eleven Labs,Arayah,numbers_and_acronyms,pt-PT,O receptor está localizado em 1567 W Oakley St. Faça a curva RH na Main St. Qual é o seu HEC? Eles estão esperando você às 14h30 CT. Acesse https://espn.com para saber mais.,173,4.78
+6481711289650919040,Eleven Labs,Arayah,numbers_and_acronyms,fr-FR,Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus.,184,4.16
+6481711289650919040,Eleven Labs,Arayah,numbers_and_acronyms,fr-CA,Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus.,184,4.03
+8802397118412021078,Eleven Labs,Arayah,numbers_and_acronyms,TL,Ang receiver ay matatagpuan sa 1567 W Oakley St. Lumiko sa RH sa Main St. Ano ang iyong ETA? Inaasahan ka nila sa 2:30pm CT. Pumunta sa https://espn.com para matuto pa.,168,3.56
+1493199011997703908,Eleven Labs,Arayah,numbers_and_acronyms,cmn-CN,接收器位于 1567 W Oakley St。在 Main St 右转。您的预计到达时间是多少？ 他们将于中部时间下午 2:30 等您。 请访问 https://espn.com 了解更多信息。,97,4.49
+1586276530765510447,Eleven Labs,Arayah,names,en-US,Wendy Thompson from Acme Supply in Chattanooga is expecting you to call Ryan McGarvey and JP Gooderham this afternoon. Nick DePrey is also awaiting your call.,158,2.68
+5909479929412288711,Eleven Labs,Arayah,names,es-ES,Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada.,151,3.42
+5909479929412288711,Eleven Labs,Arayah,names,es-MX,Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada.,151,2.99
+5186334565027695231,Eleven Labs,Arayah,names,pt-PT,"Wendy Thompson, da Acme Supply em Chattanooga, espera que você ligue para Ryan McGarvey e JP Gooderham esta tarde. Nick DePrey também está aguardando sua ligação.",162,2.61
+3788011389507764232,Eleven Labs,Arayah,names,fr-FR,Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel.,162,2.6
+3788011389507764232,Eleven Labs,Arayah,names,fr-CA,Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel.,162,2.67
+6937842047011751558,Eleven Labs,Arayah,names,TL,Inaasahan ni Wendy Thompson mula sa Acme Supply sa Chattanooga na tatawagan mo sina Ryan McGarvey at JP Gooderham ngayong hapon. Hinihintay din ni Nick DePrey ang iyong tawag.,175,3.14
+2995971805417244133,Eleven Labs,Arayah,names,cmn-CN,查塔努加 Acme Supply 的 Wendy Thompson 希望您今天下午给 Ryan McGarvey 和 JP Gooderham 打电话。,76,2.18
+5461594771845904671,Eleven Labs,Adam,simple,en-US,Hello. how are you?,19,1.12
+8933041133731999649,Eleven Labs,Adam,simple,en-US,The quick brown fox jumps over the lazy dog.,44,2.69
+6893260086683894756,Eleven Labs,Adam,simple,en-US,Peter Piper picked a pack of pickled peppers.,45,1.08
+2000839800414449093,Eleven Labs,Adam,simple,es-ES,Hola. ¿Cómo estás?,18,1.96
+6498550642262359094,Eleven Labs,Adam,simple,es-ES,El rápido zorro marrón salta sobre el perro perezoso.,53,1.95
+4084855189670854603,Eleven Labs,Adam,simple,es-ES,Peter Piper eligió un paquete de pimientos encurtidos.,54,1.23
+2000839800414449093,Eleven Labs,Adam,simple,es-MX,Hola. ¿Cómo estás?,18,0.87
+6498550642262359094,Eleven Labs,Adam,simple,es-MX,El rápido zorro marrón salta sobre el perro perezoso.,53,1.89
+8321282412484796075,Eleven Labs,Adam,simple,es-MX,Peter Piper recogió un paquete de pimientos encurtidos.,55,1.46
+8626939221038580742,Eleven Labs,Adam,simple,pt-PT,Olá. Como você está?,20,1.34
+1855514860826148628,Eleven Labs,Adam,simple,pt-PT,A rápida raposa marrom pula sobre o cachorro preguiçoso.,56,1.27
+3074772671454776879,Eleven Labs,Adam,simple,pt-PT,Peter Piper pegou um pacote de pimentos em conserva.,52,1.36
+8738971213721346603,Eleven Labs,Adam,simple,fr-FR,Bonjour. Comment allez-vous ?,29,1.12
+538671701378110504,Eleven Labs,Adam,simple,fr-FR,Le rapide renard brun saute par-dessus le chien paresseux.,58,1.45
+5031999232851361323,Eleven Labs,Adam,simple,fr-FR,Peter Piper a cueilli un paquet de poivrons marinés.,52,1.15
+8738971213721346603,Eleven Labs,Adam,simple,fr-CA,Bonjour. Comment allez-vous ?,29,0.91
+4111388041391474834,Eleven Labs,Adam,simple,fr-CA,Le renard brun saute par-dessus le chien paresseux.,51,1.3
+5031999232851361323,Eleven Labs,Adam,simple,fr-CA,Peter Piper a cueilli un paquet de poivrons marinés.,52,1.49
+6210168255569534953,Eleven Labs,Adam,simple,TL,Kumusta. Kumusta ka?,20,0.96
+1502322473110967149,Eleven Labs,Adam,simple,TL,Tumalon ang mabilis na kayumanggi na lobos sa tamad na aso.,59,1.61
+2344302379050095573,Eleven Labs,Adam,simple,TL,Pumili ni Peter Piper ng isang pakete ng mga inakado na paminta.,64,1.44
+3936429306205206816,Eleven Labs,Adam,simple,cmn-CN,你好你好嗎,5,0.8
+2724155416816679147,Eleven Labs,Adam,simple,cmn-CN,快速的棕色狐狸跳過懶狗。,12,1.11
+1210892946472339781,Eleven Labs,Adam,simple,cmn-CN,彼得·派珀摘了一包醃辣椒。,13,1.18
+6325103082724599042,Eleven Labs,Adam,punctuation,en-US,What is your estimated time of arival?,38,2.26
+873190313040767365,Eleven Labs,Adam,punctuation,en-US,What is your estimated time of arival?!,39,1.75
+6053360614954271887,Eleven Labs,Adam,punctuation,en-US,What is your estimated time of arival!,38,1.01
+9153356301312053852,Eleven Labs,Adam,punctuation,en-US,WHAT IS YOUR ESTIMATED TIME OF ARIVIAL,38,1.02
+6292904777605363046,Eleven Labs,Adam,punctuation,es-ES,¿Cuál es su hora estimada de llegada?,37,1.06
+6677744109796699704,Eleven Labs,Adam,punctuation,es-ES,¡Cuál es su hora estimada de llegada?,37,1.37
+7675128218449985032,Eleven Labs,Adam,punctuation,es-ES,¡Cuál es su hora estimada de llegada!,37,1.04
+681579251373183360,Eleven Labs,Adam,punctuation,es-ES,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,1.12
+6292904777605363046,Eleven Labs,Adam,punctuation,es-MX,¿Cuál es su hora estimada de llegada?,37,0.98
+6677744109796699704,Eleven Labs,Adam,punctuation,es-MX,¡Cuál es su hora estimada de llegada?,37,2.43
+7675128218449985032,Eleven Labs,Adam,punctuation,es-MX,¡Cuál es su hora estimada de llegada!,37,3.03
+681579251373183360,Eleven Labs,Adam,punctuation,es-MX,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,1.12
+5455914618255954988,Eleven Labs,Adam,punctuation,pt-PT,Qual é a sua hora estimada de chegada?,38,1.07
+5056941616501725837,Eleven Labs,Adam,punctuation,pt-PT,Qual é a sua hora estimada de chegada?!,39,1.03
+1628649464494924456,Eleven Labs,Adam,punctuation,pt-PT,Qual é a sua hora estimada de chegada!,38,1.09
+8039169471925453918,Eleven Labs,Adam,punctuation,pt-PT,QUAL É A SUA HORA ESTIMADA DE CHEGADA,37,1.11
+1517412220037710644,Eleven Labs,Adam,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?,42,1.39
+3867936412737292805,Eleven Labs,Adam,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée !,42,1.75
+1629975329846652244,Eleven Labs,Adam,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?!,43,1.03
+4314807983758406155,Eleven Labs,Adam,punctuation,fr-FR,QUELLE EST VOTRE HEURE D'ARRIVÉE ESTIMÉE,40,1.45
+4726496838732818880,Eleven Labs,Adam,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?,41,1.81
+5083531257868423882,Eleven Labs,Adam,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?!,42,3.53
+2840600451163546029,Eleven Labs,Adam,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue !,41,3.07
+7825683144979542375,Eleven Labs,Adam,punctuation,fr-CA,QUELLE EST VOTRE HEURE D'ARRIVÉE PRÉVUE,39,1.5
+8832474425738082518,Eleven Labs,Adam,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?,43,1.2
+8895678623786982697,Eleven Labs,Adam,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?!,44,1.05
+7595377699872153845,Eleven Labs,Adam,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating!,43,1.29
+1157997841692428956,Eleven Labs,Adam,punctuation,TL,ANO ANG IYONG TINATAYANG ORAS NG PAGDATING,42,1.18
+4879240828323835654,Eleven Labs,Adam,punctuation,cmn-CN,您的預計抵達時間是多少？,12,1.14
+4642062542026513393,Eleven Labs,Adam,punctuation,cmn-CN,您的預計抵達時間是多少 ?!,14,1.51
+7118242181755155966,Eleven Labs,Adam,punctuation,cmn-CN,您的預計抵達時間是多少 !,13,1.06
+6512736200779089292,Eleven Labs,Adam,punctuation,cmn-CN,您的預計抵達時間是多少,11,1.56
+4262028833376718189,Eleven Labs,Adam,emojis,en-US,"🚨 Urgent, please read. 🚨",24,0.84
+4994779803943413823,Eleven Labs,Adam,emojis,en-US,🚨👀🚚🥇📦👇,6,0.77
+396118489578515054,Eleven Labs,Adam,emojis,es-ES,"🚨 Urgente, por favor lee. 🚨",27,0.87
+4994779803943413823,Eleven Labs,Adam,emojis,es-ES,🚨👀🚚🥇📦👇,6,1.18
+2718758904988367035,Eleven Labs,Adam,emojis,es-MX,"🚨 Urgente, por favor lea. 🚨",27,1.25
+4994779803943413823,Eleven Labs,Adam,emojis,es-MX,🚨👀🚚🥇📦👇,6,1.07
+9203722033135303081,Eleven Labs,Adam,emojis,pt-PT,"🚨 Urgente, por favor, leia. 🚨",29,0.94
+4994779803943413823,Eleven Labs,Adam,emojis,pt-PT,🚨👀🚚🥇📦👇,6,1.1
+1747767912087009519,Eleven Labs,Adam,emojis,fr-FR,"🚨 C'est urgent, veuillez lire. 🚨",32,1.38
+4994779803943413823,Eleven Labs,Adam,emojis,fr-FR,🚨👀🚚🥇📦👇,6,1.19
+2720595845660555447,Eleven Labs,Adam,emojis,fr-CA,"🚨 Urgent, veuillez lire. 🚨",26,1.41
+4994779803943413823,Eleven Labs,Adam,emojis,fr-CA,🚨👀🚚🥇📦👇,6,1.98
+3477565172891740915,Eleven Labs,Adam,emojis,TL,"🚨 Kagad, mangyaring basahin. 🚨",30,1.44
+4994779803943413823,Eleven Labs,Adam,emojis,TL,🚨👀🚚🥇📦👇,6,1.08
+3440854032934679662,Eleven Labs,Adam,emojis,cmn-CN,🚨 緊急，請閱讀。 🚨,11,1.54
+4994779803943413823,Eleven Labs,Adam,emojis,cmn-CN,🚨👀🚚🥇📦👇,6,1.17
+474845430051847865,Eleven Labs,Adam,formatted,en-US,"We met with 4 stakeholders from Grand Island Express yesterday. Good meeting. They're engaged. Huge potential to improve their predicability of delivery and save them time in what currently requires lots of phone calls and emails between dispatcher and driver. Takeaways:
+ - The Fleet Manager is the person we are optimizing for.
+ - They stand the most to gain from a voice messaging solution where they can have active 1-1 conversations with 50+ drivers in a single day to coordinate receipt timelines and re-route as necessary.
+ - There are some language barriers which we can solve partially with translated transcripts (today) and fully with audio2audio translations in the future
+ - This workflow has direct and indirect bottom line potential: cost savings vs the translation service they use today, greater predictability for customers = improved reputation and bookings, potential to deliver faster and limit driver downtime because they can more readily predict delivery timelines and solve for receivership and backhaul implications",1041,13.33
+2073907287865561782,Eleven Labs,Adam,formatted,es-ES,"Ayer nos reunimos con 4 partes interesadas de Grand Island Express. Buena reunión. Están comprometidos. Enorme potencial para mejorar su previsibilidad de entrega y ahorrarles tiempo en lo que actualmente requiere muchas llamadas telefónicas y correos electrónicos entre el despachador y el conductor. Conclusiones:
+ - El administrador de flota es la persona para la que estamos optimizando.
+ - Son los que más pueden ganar con una solución de mensajería de voz donde pueden tener conversaciones individuales activas con más de 50 conductores en un solo día para coordinar los plazos de recepción y desviar la ruta según sea necesario.
+ - Existen algunas barreras del idioma que podemos resolver parcialmente con transcripciones traducidas (hoy) y completamente con traducciones audio2audio en el futuro.
+ - Este flujo de trabajo tiene potencial directo e indirecto: ahorro de costos en comparación con el servicio de traducción que utilizan hoy, mayor previsibilidad para los clientes. = reputación y reservas mejoradas, potencial para realizar entregas más rápido y limitar el tiempo de inactividad de los conductores porque pueden predecir más fácilmente los plazos de entrega y resolver las implicaciones de la administración judicial y el backhaul",1252,15.1
+2073907287865561782,Eleven Labs,Adam,formatted,es-MX,"Ayer nos reunimos con 4 partes interesadas de Grand Island Express. Buena reunión. Están comprometidos. Enorme potencial para mejorar su previsibilidad de entrega y ahorrarles tiempo en lo que actualmente requiere muchas llamadas telefónicas y correos electrónicos entre el despachador y el conductor. Conclusiones:
+ - El administrador de flota es la persona para la que estamos optimizando.
+ - Son los que más pueden ganar con una solución de mensajería de voz donde pueden tener conversaciones individuales activas con más de 50 conductores en un solo día para coordinar los plazos de recepción y desviar la ruta según sea necesario.
+ - Existen algunas barreras del idioma que podemos resolver parcialmente con transcripciones traducidas (hoy) y completamente con traducciones audio2audio en el futuro.
+ - Este flujo de trabajo tiene potencial directo e indirecto: ahorro de costos en comparación con el servicio de traducción que utilizan hoy, mayor previsibilidad para los clientes. = reputación y reservas mejoradas, potencial para realizar entregas más rápido y limitar el tiempo de inactividad de los conductores porque pueden predecir más fácilmente los plazos de entrega y resolver las implicaciones de la administración judicial y el backhaul",1252,15.58
+5763569522157409363,Eleven Labs,Adam,formatted,pt-PT,"Ontem nos reunimos com 4 partes interessadas da Grand Island Express. Bom encontro. Eles estão noivos. Enorme potencial para melhorar a previsibilidade de entrega e economizar tempo no que atualmente exige muitos telefonemas e e-mails entre o despachante e o motorista. Conclusões:
+ - O Gerente de Frota é a pessoa para quem estamos otimizando.
+ - Eles têm mais a ganhar com uma solução de mensagens de voz onde podem ter conversas individuais ativas com mais de 50 motoristas em um único dia para coordenar os cronogramas de recebimento e redirecionar conforme necessário.
+ - Existem algumas barreiras linguísticas que podemos resolver parcialmente com transcrições traduzidas (hoje) e totalmente com traduções audio2audio no futuro
+ - Este fluxo de trabalho tem potencial direto e indireto de resultados: economia de custos em comparação com o serviço de tradução que utilizam hoje, maior previsibilidade para os clientes = melhor reputação e reservas, potencial para entregar mais rapidamente e limitar o tempo de inatividade do motorista porque eles podem prever mais prontamente os prazos de entrega e resolver implicações de recuperação judicial e backhaul",1162,15.01
+5927783709130212038,Eleven Labs,Adam,formatted,fr-FR,"Nous avons rencontré hier 4 parties prenantes de Grand Island Express. Bonne rencontre. Ils sont fiancés. Un énorme potentiel pour améliorer leur prévisibilité de livraison et leur faire gagner du temps dans ce qui nécessite actuellement de nombreux appels téléphoniques et e-mails entre le répartiteur et le chauffeur. À retenir :
+ - Le gestionnaire de flotte est la personne pour laquelle nous optimisons.
+ - Ce sont eux qui ont le plus à gagner d'une solution de messagerie vocale qui leur permet d'avoir des conversations actives en tête-à-tête avec plus de 50 chauffeurs en une seule journée pour coordonner les délais de réception et réacheminer si nécessaire.
+ - Il existe certaines barrières linguistiques que nous pouvons résoudre partiellement avec des transcriptions traduites (aujourd'hui) et entièrement avec des traductions audio-audio à l'avenir.
+ - Ce flux de travail a un potentiel de résultat direct et indirect : économies de coûts par rapport au service de traduction qu'ils utilisent aujourd'hui, plus grande prévisibilité pour les clients. = amélioration de la réputation et des réservations, possibilité de livrer plus rapidement et de limiter les temps d'arrêt des chauffeurs, car ils peuvent plus facilement prédire les délais de livraison et résoudre les implications en matière de mise sous séquestre et de transport.",1344,17.33
+5927783709130212038,Eleven Labs,Adam,formatted,fr-CA,"Nous avons rencontré hier 4 parties prenantes de Grand Island Express. Bonne rencontre. Ils sont fiancés. Un énorme potentiel pour améliorer leur prévisibilité de livraison et leur faire gagner du temps dans ce qui nécessite actuellement de nombreux appels téléphoniques et e-mails entre le répartiteur et le chauffeur. À retenir :
+ - Le gestionnaire de flotte est la personne pour laquelle nous optimisons.
+ - Ce sont eux qui ont le plus à gagner d'une solution de messagerie vocale qui leur permet d'avoir des conversations actives en tête-à-tête avec plus de 50 chauffeurs en une seule journée pour coordonner les délais de réception et réacheminer si nécessaire.
+ - Il existe certaines barrières linguistiques que nous pouvons résoudre partiellement avec des transcriptions traduites (aujourd'hui) et entièrement avec des traductions audio-audio à l'avenir.
+ - Ce flux de travail a un potentiel de résultat direct et indirect : économies de coûts par rapport au service de traduction qu'ils utilisent aujourd'hui, plus grande prévisibilité pour les clients. = amélioration de la réputation et des réservations, possibilité de livrer plus rapidement et de limiter les temps d'arrêt des chauffeurs, car ils peuvent plus facilement prédire les délais de livraison et résoudre les implications en matière de mise sous séquestre et de transport.",1344,16.59
+6814463077747204403,Eleven Labs,Adam,formatted,TL,"Nakipagpulong kami sa 4 na stakeholder mula sa Grand Island Express kahapon. Magandang pagpupulong. engaged na sila. Malaking potensyal na mapabuti ang kanilang predicability ng paghahatid at makatipid sa kanila ng oras sa kasalukuyang nangangailangan ng maraming tawag sa telepono at email sa pagitan ng dispatcher at driver. Takeaways:
+ - Ang Fleet Manager ay ang taong ino-optimize namin.
+ - Pinakamahusay silang makamit mula sa isang voice messaging solution kung saan maaari silang magkaroon ng aktibong 1-1 na pag-uusap sa 50+ na driver sa isang araw upang i-coordinate ang mga timeline ng resibo at muling ruta kung kinakailangan.
+ - Mayroong ilang mga hadlang sa wika na bahagyang malulutas namin gamit ang mga isinaling transcript (ngayon) at ganap na may mga pagsasalin ng audio2audio sa hinaharap
+ - Ang daloy ng trabaho na ito ay may direkta at hindi direktang potensyal na pang-ibabaw: makatipid sa gastos kumpara sa serbisyo ng pagsasalin na ginagamit nila ngayon, mas mahuhulaan para sa mga customer = pinahusay na reputasyon at mga booking, potensyal na makapaghatid ng mas mabilis at limitahan ang downtime ng driver dahil mas madali nilang mahulaan ang mga timeline ng paghahatid at malutas ang mga implikasyon ng receivership at backhaul",1256,17.41
+7090241191231334878,Eleven Labs,JP,simple,en-US,Hello. how are you?,19,3.48
+6017931228166956981,Eleven Labs,JP,simple,en-US,The quick brown fox jumps over the lazy dog.,44,1.24
+1445931936477132835,Eleven Labs,JP,simple,en-US,Peter Piper picked a pack of pickled peppers.,45,1.06
+2363774958913510860,Eleven Labs,JP,simple,es-ES,Hola. ¿Cómo estás?,18,2.43
+3543801230667009398,Eleven Labs,JP,simple,es-ES,El rápido zorro marrón salta sobre el perro perezoso.,53,1.23
+4951663996028859758,Eleven Labs,JP,simple,es-ES,Peter Piper eligió un paquete de pimientos encurtidos.,54,1.7
+2363774958913510860,Eleven Labs,JP,simple,es-MX,Hola. ¿Cómo estás?,18,1.15
+3543801230667009398,Eleven Labs,JP,simple,es-MX,El rápido zorro marrón salta sobre el perro perezoso.,53,2.0
+7660756497720677093,Eleven Labs,JP,simple,es-MX,Peter Piper recogió un paquete de pimientos encurtidos.,55,2.24
+8975966254632826870,Eleven Labs,JP,simple,pt-PT,Olá. Como você está?,20,1.02
+7133478270238581173,Eleven Labs,JP,simple,pt-PT,A rápida raposa marrom pula sobre o cachorro preguiçoso.,56,1.74
+2895091704106265892,Eleven Labs,JP,simple,pt-PT,Peter Piper pegou um pacote de pimentos em conserva.,52,1.18
+348140451800963192,Eleven Labs,JP,simple,fr-FR,Bonjour. Comment allez-vous ?,29,0.98
+2182246990019131376,Eleven Labs,JP,simple,fr-FR,Le rapide renard brun saute par-dessus le chien paresseux.,58,3.15
+520299597045928953,Eleven Labs,JP,simple,fr-FR,Peter Piper a cueilli un paquet de poivrons marinés.,52,1.18
+348140451800963192,Eleven Labs,JP,simple,fr-CA,Bonjour. Comment allez-vous ?,29,1.07
+295409032958935205,Eleven Labs,JP,simple,fr-CA,Le renard brun saute par-dessus le chien paresseux.,51,1.13
+520299597045928953,Eleven Labs,JP,simple,fr-CA,Peter Piper a cueilli un paquet de poivrons marinés.,52,1.17
+8046736033956601399,Eleven Labs,JP,simple,TL,Kumusta. Kumusta ka?,20,0.88
+2626020724336150377,Eleven Labs,JP,simple,TL,Tumalon ang mabilis na kayumanggi na lobos sa tamad na aso.,59,1.49
+3347933145385072469,Eleven Labs,JP,simple,TL,Pumili ni Peter Piper ng isang pakete ng mga inakado na paminta.,64,3.33
+8780751325041018587,Eleven Labs,JP,simple,cmn-CN,你好你好嗎,5,0.87
+983242306493302243,Eleven Labs,JP,simple,cmn-CN,快速的棕色狐狸跳過懶狗。,12,1.07
+2503331200943565600,Eleven Labs,JP,simple,cmn-CN,彼得·派珀摘了一包醃辣椒。,13,1.07
+7449420206154507742,Eleven Labs,JP,punctuation,en-US,What is your estimated time of arival?,38,1.62
+2026682791406636845,Eleven Labs,JP,punctuation,en-US,What is your estimated time of arival?!,39,1.0
+157394428301323539,Eleven Labs,JP,punctuation,en-US,What is your estimated time of arival!,38,1.38
+840287877054964458,Eleven Labs,JP,punctuation,en-US,WHAT IS YOUR ESTIMATED TIME OF ARIVIAL,38,2.1
+6883277129872866734,Eleven Labs,JP,punctuation,es-ES,¿Cuál es su hora estimada de llegada?,37,3.17
+6479550081417540275,Eleven Labs,JP,punctuation,es-ES,¡Cuál es su hora estimada de llegada?,37,1.83
+5946089336234922264,Eleven Labs,JP,punctuation,es-ES,¡Cuál es su hora estimada de llegada!,37,1.53
+6797934703761301747,Eleven Labs,JP,punctuation,es-ES,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,1.14
+6883277129872866734,Eleven Labs,JP,punctuation,es-MX,¿Cuál es su hora estimada de llegada?,37,2.4
+6479550081417540275,Eleven Labs,JP,punctuation,es-MX,¡Cuál es su hora estimada de llegada?,37,1.2
+5946089336234922264,Eleven Labs,JP,punctuation,es-MX,¡Cuál es su hora estimada de llegada!,37,1.26
+6797934703761301747,Eleven Labs,JP,punctuation,es-MX,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,1.15
+8521670401769656776,Eleven Labs,JP,punctuation,pt-PT,Qual é a sua hora estimada de chegada?,38,1.86
+1370805026332763735,Eleven Labs,JP,punctuation,pt-PT,Qual é a sua hora estimada de chegada?!,39,1.06
+9177791347172876534,Eleven Labs,JP,punctuation,pt-PT,Qual é a sua hora estimada de chegada!,38,1.05
+8603828557681430517,Eleven Labs,JP,punctuation,pt-PT,QUAL É A SUA HORA ESTIMADA DE CHEGADA,37,1.81
+4437493512745477672,Eleven Labs,JP,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?,42,1.24
+8417700075331621511,Eleven Labs,JP,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée !,42,1.83
+2233137158647093613,Eleven Labs,JP,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?!,43,3.01
+2919756236038347948,Eleven Labs,JP,punctuation,fr-FR,QUELLE EST VOTRE HEURE D'ARRIVÉE ESTIMÉE,40,5.15
+1250226923351001324,Eleven Labs,JP,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?,41,1.12
+6797482348415362891,Eleven Labs,JP,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?!,42,1.06
+5733667473583530483,Eleven Labs,JP,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue !,41,2.66
+3262809642217610535,Eleven Labs,JP,punctuation,fr-CA,QUELLE EST VOTRE HEURE D'ARRIVÉE PRÉVUE,39,1.41
+9047422701672643251,Eleven Labs,JP,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?,43,1.97
+4564308809817050081,Eleven Labs,JP,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?!,44,3.17
+2444479402888139140,Eleven Labs,JP,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating!,43,3.07
+3994065552846380852,Eleven Labs,JP,punctuation,TL,ANO ANG IYONG TINATAYANG ORAS NG PAGDATING,42,1.37
+3637953045142019359,Eleven Labs,JP,punctuation,cmn-CN,您的預計抵達時間是多少？,12,1.82
+9047750050229772689,Eleven Labs,JP,punctuation,cmn-CN,您的預計抵達時間是多少 ?!,14,2.85
+9050799250562053537,Eleven Labs,JP,punctuation,cmn-CN,您的預計抵達時間是多少 !,13,3.18
+427430692888967863,Eleven Labs,JP,punctuation,cmn-CN,您的預計抵達時間是多少,11,1.2
+5117068308918049411,Eleven Labs,JP,emojis,en-US,"🚨 Urgent, please read. 🚨",24,0.91
+4032701405787410384,Eleven Labs,JP,emojis,en-US,🚨👀🚚🥇📦👇,6,0.67
+5051617058678917851,Eleven Labs,JP,emojis,es-ES,"🚨 Urgente, por favor lee. 🚨",27,0.9
+4032701405787410384,Eleven Labs,JP,emojis,es-ES,🚨👀🚚🥇📦👇,6,0.94
+4137545068754413286,Eleven Labs,JP,emojis,es-MX,"🚨 Urgente, por favor lea. 🚨",27,1.72
+4032701405787410384,Eleven Labs,JP,emojis,es-MX,🚨👀🚚🥇📦👇,6,1.74
+4402360675895741172,Eleven Labs,JP,emojis,pt-PT,"🚨 Urgente, por favor, leia. 🚨",29,2.6
+4032701405787410384,Eleven Labs,JP,emojis,pt-PT,🚨👀🚚🥇📦👇,6,0.7
+8659682523753696927,Eleven Labs,JP,emojis,fr-FR,"🚨 C'est urgent, veuillez lire. 🚨",32,1.05
+4032701405787410384,Eleven Labs,JP,emojis,fr-FR,🚨👀🚚🥇📦👇,6,0.69
+7388713270952242955,Eleven Labs,JP,emojis,fr-CA,"🚨 Urgent, veuillez lire. 🚨",26,3.15
+4032701405787410384,Eleven Labs,JP,emojis,fr-CA,🚨👀🚚🥇📦👇,6,3.08
+3876890713415449927,Eleven Labs,JP,emojis,TL,"🚨 Kagad, mangyaring basahin. 🚨",30,1.8
+4032701405787410384,Eleven Labs,JP,emojis,TL,🚨👀🚚🥇📦👇,6,0.99
+5953486507790377617,Eleven Labs,JP,emojis,cmn-CN,🚨 緊急，請閱讀。 🚨,11,0.96
+4032701405787410384,Eleven Labs,JP,emojis,cmn-CN,🚨👀🚚🥇📦👇,6,1.56
+5887634948338981165,Eleven Labs,JP,formatted,en-US,"We met with 4 stakeholders from Grand Island Express yesterday. Good meeting. They're engaged. Huge potential to improve their predicability of delivery and save them time in what currently requires lots of phone calls and emails between dispatcher and driver. Takeaways:
+ - The Fleet Manager is the person we are optimizing for.
+ - They stand the most to gain from a voice messaging solution where they can have active 1-1 conversations with 50+ drivers in a single day to coordinate receipt timelines and re-route as necessary.
+ - There are some language barriers which we can solve partially with translated transcripts (today) and fully with audio2audio translations in the future
+ - This workflow has direct and indirect bottom line potential: cost savings vs the translation service they use today, greater predictability for customers = improved reputation and bookings, potential to deliver faster and limit driver downtime because they can more readily predict delivery timelines and solve for receivership and backhaul implications",1041,16.7
+6776492955332656385,Eleven Labs,JP,formatted,es-ES,"Ayer nos reunimos con 4 partes interesadas de Grand Island Express. Buena reunión. Están comprometidos. Enorme potencial para mejorar su previsibilidad de entrega y ahorrarles tiempo en lo que actualmente requiere muchas llamadas telefónicas y correos electrónicos entre el despachador y el conductor. Conclusiones:
+ - El administrador de flota es la persona para la que estamos optimizando.
+ - Son los que más pueden ganar con una solución de mensajería de voz donde pueden tener conversaciones individuales activas con más de 50 conductores en un solo día para coordinar los plazos de recepción y desviar la ruta según sea necesario.
+ - Existen algunas barreras del idioma que podemos resolver parcialmente con transcripciones traducidas (hoy) y completamente con traducciones audio2audio en el futuro.
+ - Este flujo de trabajo tiene potencial directo e indirecto: ahorro de costos en comparación con el servicio de traducción que utilizan hoy, mayor previsibilidad para los clientes. = reputación y reservas mejoradas, potencial para realizar entregas más rápido y limitar el tiempo de inactividad de los conductores porque pueden predecir más fácilmente los plazos de entrega y resolver las implicaciones de la administración judicial y el backhaul",1252,15.16
+6776492955332656385,Eleven Labs,JP,formatted,es-MX,"Ayer nos reunimos con 4 partes interesadas de Grand Island Express. Buena reunión. Están comprometidos. Enorme potencial para mejorar su previsibilidad de entrega y ahorrarles tiempo en lo que actualmente requiere muchas llamadas telefónicas y correos electrónicos entre el despachador y el conductor. Conclusiones:
+ - El administrador de flota es la persona para la que estamos optimizando.
+ - Son los que más pueden ganar con una solución de mensajería de voz donde pueden tener conversaciones individuales activas con más de 50 conductores en un solo día para coordinar los plazos de recepción y desviar la ruta según sea necesario.
+ - Existen algunas barreras del idioma que podemos resolver parcialmente con transcripciones traducidas (hoy) y completamente con traducciones audio2audio en el futuro.
+ - Este flujo de trabajo tiene potencial directo e indirecto: ahorro de costos en comparación con el servicio de traducción que utilizan hoy, mayor previsibilidad para los clientes. = reputación y reservas mejoradas, potencial para realizar entregas más rápido y limitar el tiempo de inactividad de los conductores porque pueden predecir más fácilmente los plazos de entrega y resolver las implicaciones de la administración judicial y el backhaul",1252,15.66
+7944822337203489239,Eleven Labs,JP,formatted,pt-PT,"Ontem nos reunimos com 4 partes interessadas da Grand Island Express. Bom encontro. Eles estão noivos. Enorme potencial para melhorar a previsibilidade de entrega e economizar tempo no que atualmente exige muitos telefonemas e e-mails entre o despachante e o motorista. Conclusões:
+ - O Gerente de Frota é a pessoa para quem estamos otimizando.
+ - Eles têm mais a ganhar com uma solução de mensagens de voz onde podem ter conversas individuais ativas com mais de 50 motoristas em um único dia para coordenar os cronogramas de recebimento e redirecionar conforme necessário.
+ - Existem algumas barreiras linguísticas que podemos resolver parcialmente com transcrições traduzidas (hoje) e totalmente com traduções audio2audio no futuro
+ - Este fluxo de trabalho tem potencial direto e indireto de resultados: economia de custos em comparação com o serviço de tradução que utilizam hoje, maior previsibilidade para os clientes = melhor reputação e reservas, potencial para entregar mais rapidamente e limitar o tempo de inatividade do motorista porque eles podem prever mais prontamente os prazos de entrega e resolver implicações de recuperação judicial e backhaul",1162,19.29
+8400991744785903540,Eleven Labs,JP,formatted,fr-FR,"Nous avons rencontré hier 4 parties prenantes de Grand Island Express. Bonne rencontre. Ils sont fiancés. Un énorme potentiel pour améliorer leur prévisibilité de livraison et leur faire gagner du temps dans ce qui nécessite actuellement de nombreux appels téléphoniques et e-mails entre le répartiteur et le chauffeur. À retenir :
+ - Le gestionnaire de flotte est la personne pour laquelle nous optimisons.
+ - Ce sont eux qui ont le plus à gagner d'une solution de messagerie vocale qui leur permet d'avoir des conversations actives en tête-à-tête avec plus de 50 chauffeurs en une seule journée pour coordonner les délais de réception et réacheminer si nécessaire.
+ - Il existe certaines barrières linguistiques que nous pouvons résoudre partiellement avec des transcriptions traduites (aujourd'hui) et entièrement avec des traductions audio-audio à l'avenir.
+ - Ce flux de travail a un potentiel de résultat direct et indirect : économies de coûts par rapport au service de traduction qu'ils utilisent aujourd'hui, plus grande prévisibilité pour les clients. = amélioration de la réputation et des réservations, possibilité de livrer plus rapidement et de limiter les temps d'arrêt des chauffeurs, car ils peuvent plus facilement prédire les délais de livraison et résoudre les implications en matière de mise sous séquestre et de transport.",1344,16.9
+8400991744785903540,Eleven Labs,JP,formatted,fr-CA,"Nous avons rencontré hier 4 parties prenantes de Grand Island Express. Bonne rencontre. Ils sont fiancés. Un énorme potentiel pour améliorer leur prévisibilité de livraison et leur faire gagner du temps dans ce qui nécessite actuellement de nombreux appels téléphoniques et e-mails entre le répartiteur et le chauffeur. À retenir :
+ - Le gestionnaire de flotte est la personne pour laquelle nous optimisons.
+ - Ce sont eux qui ont le plus à gagner d'une solution de messagerie vocale qui leur permet d'avoir des conversations actives en tête-à-tête avec plus de 50 chauffeurs en une seule journée pour coordonner les délais de réception et réacheminer si nécessaire.
+ - Il existe certaines barrières linguistiques que nous pouvons résoudre partiellement avec des transcriptions traduites (aujourd'hui) et entièrement avec des traductions audio-audio à l'avenir.
+ - Ce flux de travail a un potentiel de résultat direct et indirect : économies de coûts par rapport au service de traduction qu'ils utilisent aujourd'hui, plus grande prévisibilité pour les clients. = amélioration de la réputation et des réservations, possibilité de livrer plus rapidement et de limiter les temps d'arrêt des chauffeurs, car ils peuvent plus facilement prédire les délais de livraison et résoudre les implications en matière de mise sous séquestre et de transport.",1344,16.72
+2867259315571869068,Eleven Labs,JP,formatted,TL,"Nakipagpulong kami sa 4 na stakeholder mula sa Grand Island Express kahapon. Magandang pagpupulong. engaged na sila. Malaking potensyal na mapabuti ang kanilang predicability ng paghahatid at makatipid sa kanila ng oras sa kasalukuyang nangangailangan ng maraming tawag sa telepono at email sa pagitan ng dispatcher at driver. Takeaways:
+ - Ang Fleet Manager ay ang taong ino-optimize namin.
+ - Pinakamahusay silang makamit mula sa isang voice messaging solution kung saan maaari silang magkaroon ng aktibong 1-1 na pag-uusap sa 50+ na driver sa isang araw upang i-coordinate ang mga timeline ng resibo at muling ruta kung kinakailangan.
+ - Mayroong ilang mga hadlang sa wika na bahagyang malulutas namin gamit ang mga isinaling transcript (ngayon) at ganap na may mga pagsasalin ng audio2audio sa hinaharap
+ - Ang daloy ng trabaho na ito ay may direkta at hindi direktang potensyal na pang-ibabaw: makatipid sa gastos kumpara sa serbisyo ng pagsasalin na ginagamit nila ngayon, mas mahuhulaan para sa mga customer = pinahusay na reputasyon at mga booking, potensyal na makapaghatid ng mas mabilis at limitahan ang downtime ng driver dahil mas madali nilang mahulaan ang mga timeline ng paghahatid at malutas ang mga implikasyon ng receivership at backhaul",1256,16.29
+6486191326865400979,Eleven Labs,JP,formatted,cmn-CN,"昨天我们会见了 Grand Island Express 的 4 位利益相关者。 很好的会议。 他们订婚了。 提高送货的可预测性并节省时间的巨大潜力，因为目前调度员和司机之间需要大量的电话和电子邮件。 要点：
+ - 车队经理是我们正在优化的人。
+ - 他们从语音消息解决方案中获益最多，在该解决方案中，他们可以在一天内与 50 多名司机进行积极的 1-1 对话，以协调收货时间表并根据需要重新安排路线。
+ - 有一些语言障碍，我们可以通过翻译文本（今天）部分解决，并在未来通过音频到音频翻译完全解决
+ - 此工作流程具有直接和间接的底线潜力：与他们今天使用的翻译服务相比，可以节省成本，为客户提供更高的可预测性 = 提高声誉和预订量，加快交付速度并限制司机停机时间的潜力，因为他们可以更轻松地预测交付时间并解决接管和回程影响",362,14.98
+4468868934214990892,Eleven Labs,JP,numbers_and_acronyms,en-US,The receiver is located at 1567 W Oakley St. Take the RH turn at Main St. Whats your ETA? They are expecting you at 2:30pm CT. Go to https://espn.com to learn more.,164,4.43
+4116615072644817768,Eleven Labs,JP,numbers_and_acronyms,es-ES,El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información.,186,4.03
+4116615072644817768,Eleven Labs,JP,numbers_and_acronyms,es-MX,El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información.,186,4.39
+4407625864567916659,Eleven Labs,JP,numbers_and_acronyms,pt-PT,O receptor está localizado em 1567 W Oakley St. Faça a curva RH na Main St. Qual é o seu HEC? Eles estão esperando você às 14h30 CT. Acesse https://espn.com para saber mais.,173,5.71
+522182621090116356,Eleven Labs,JP,numbers_and_acronyms,fr-FR,Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus.,184,4.48
+522182621090116356,Eleven Labs,JP,numbers_and_acronyms,fr-CA,Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus.,184,4.64
+4247845618856235683,Eleven Labs,JP,numbers_and_acronyms,TL,Ang receiver ay matatagpuan sa 1567 W Oakley St. Lumiko sa RH sa Main St. Ano ang iyong ETA? Inaasahan ka nila sa 2:30pm CT. Pumunta sa https://espn.com para matuto pa.,168,4.07
+3258869684241749056,Eleven Labs,JP,numbers_and_acronyms,cmn-CN,接收器位于 1567 W Oakley St。在 Main St 右转。您的预计到达时间是多少？ 他们将于中部时间下午 2:30 等您。 请访问 https://espn.com 了解更多信息。,97,7.54
+7288569848847293391,Eleven Labs,JP,names,en-US,Wendy Thompson from Acme Supply in Chattanooga is expecting you to call Ryan McGarvey and JP Gooderham this afternoon. Nick DePrey is also awaiting your call.,158,5.08
+7504013599272995186,Eleven Labs,JP,names,es-ES,Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada.,151,2.45
+7504013599272995186,Eleven Labs,JP,names,es-MX,Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada.,151,2.68
+7901931599237492201,Eleven Labs,JP,names,pt-PT,"Wendy Thompson, da Acme Supply em Chattanooga, espera que você ligue para Ryan McGarvey e JP Gooderham esta tarde. Nick DePrey também está aguardando sua ligação.",162,5.02
+7469332945447953936,Eleven Labs,JP,names,fr-FR,Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel.,162,2.62
+7469332945447953936,Eleven Labs,JP,names,fr-CA,Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel.,162,2.65
+3479249818846168676,Eleven Labs,JP,names,TL,Inaasahan ni Wendy Thompson mula sa Acme Supply sa Chattanooga na tatawagan mo sina Ryan McGarvey at JP Gooderham ngayong hapon. Hinihintay din ni Nick DePrey ang iyong tawag.,175,4.43
+2302176893712665495,Eleven Labs,JP,names,cmn-CN,查塔努加 Acme Supply 的 Wendy Thompson 希望您今天下午给 Ryan McGarvey 和 JP Gooderham 打电话。,76,2.61
+3463209206624143021,Google Cloud TTS,Neural2,simple,en-US,Hello. how are you?,19,0.45
+6636230913307458154,Google Cloud TTS,Neural2,simple,en-US,The quick brown fox jumps over the lazy dog.,44,0.81
+1026125687953941105,Google Cloud TTS,Neural2,simple,en-US,Peter Piper picked a pack of pickled peppers.,45,0.36
+5668345836006425275,Google Cloud TTS,Neural2,simple,es-ES,Hola. ¿Cómo estás?,18,0.84
+6803755582984326084,Google Cloud TTS,Neural2,simple,es-ES,El rápido zorro marrón salta sobre el perro perezoso.,53,1.48
+6767525401244978242,Google Cloud TTS,Neural2,simple,es-ES,Peter Piper eligió un paquete de pimientos encurtidos.,54,0.39
+5668345836006425275,Google Cloud TTS,Neural2,simple,es-MX,Hola. ¿Cómo estás?,18,0.38
+6803755582984326084,Google Cloud TTS,Neural2,simple,es-MX,El rápido zorro marrón salta sobre el perro perezoso.,53,1.35
+8310404198412913953,Google Cloud TTS,Neural2,simple,es-MX,Peter Piper recogió un paquete de pimientos encurtidos.,55,0.39
+8568014066768759835,Google Cloud TTS,Neural2,simple,pt-PT,Olá. Como você está?,20,0.3
+4901244963809210010,Google Cloud TTS,Neural2,simple,pt-PT,A rápida raposa marrom pula sobre o cachorro preguiçoso.,56,2.63
+8973085570098823348,Google Cloud TTS,Neural2,simple,pt-PT,Peter Piper pegou um pacote de pimentos em conserva.,52,3.04
+6061419079668076190,Google Cloud TTS,Neural2,simple,fr-FR,Bonjour. Comment allez-vous ?,29,1.53
+666305375569047002,Google Cloud TTS,Neural2,simple,fr-FR,Le rapide renard brun saute par-dessus le chien paresseux.,58,0.67
+5452304025126979970,Google Cloud TTS,Neural2,simple,fr-FR,Peter Piper a cueilli un paquet de poivrons marinés.,52,0.46
+6061419079668076190,Google Cloud TTS,Neural2,simple,fr-CA,Bonjour. Comment allez-vous ?,29,2.43
+6988245085944796167,Google Cloud TTS,Neural2,simple,fr-CA,Le renard brun saute par-dessus le chien paresseux.,51,1.46
+5452304025126979970,Google Cloud TTS,Neural2,simple,fr-CA,Peter Piper a cueilli un paquet de poivrons marinés.,52,2.63
+7045461708274549370,Google Cloud TTS,Neural2,simple,TL,Kumusta. Kumusta ka?,20,0.35
+492917765071227248,Google Cloud TTS,Neural2,simple,TL,Tumalon ang mabilis na kayumanggi na lobos sa tamad na aso.,59,0.51
+5459131201249348177,Google Cloud TTS,Neural2,simple,TL,Pumili ni Peter Piper ng isang pakete ng mga inakado na paminta.,64,2.24
+1728469627049255936,Google Cloud TTS,Neural2,simple,cmn-CN,你好你好嗎,5,0.28
+6504995294711554026,Google Cloud TTS,Neural2,simple,cmn-CN,快速的棕色狐狸跳過懶狗。,12,0.28
+5905374095968148296,Google Cloud TTS,Neural2,simple,cmn-CN,彼得·派珀摘了一包醃辣椒。,13,0.61
+6394860933610329165,Google Cloud TTS,Neural2,punctuation,en-US,What is your estimated time of arival?,38,0.31
+4145930877960215796,Google Cloud TTS,Neural2,punctuation,en-US,What is your estimated time of arival?!,39,1.32
+2292671894904632805,Google Cloud TTS,Neural2,punctuation,en-US,What is your estimated time of arival!,38,0.37
+5938988177187412928,Google Cloud TTS,Neural2,punctuation,en-US,WHAT IS YOUR ESTIMATED TIME OF ARIVAL,37,1.77
+409035492437808954,Google Cloud TTS,Neural2,punctuation,es-ES,¿Cuál es su hora estimada de llegada?,37,2.22
+1238301597618625717,Google Cloud TTS,Neural2,punctuation,es-ES,¡Cuál es su hora estimada de llegada?,37,0.6
+5909838724828635518,Google Cloud TTS,Neural2,punctuation,es-ES,¡Cuál es su hora estimada de llegada!,37,0.3
+3528068777157644431,Google Cloud TTS,Neural2,punctuation,es-ES,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,1.16
+409035492437808954,Google Cloud TTS,Neural2,punctuation,es-MX,¿Cuál es su hora estimada de llegada?,37,0.63
+1238301597618625717,Google Cloud TTS,Neural2,punctuation,es-MX,¡Cuál es su hora estimada de llegada?,37,0.31
+5909838724828635518,Google Cloud TTS,Neural2,punctuation,es-MX,¡Cuál es su hora estimada de llegada!,37,0.34
+3528068777157644431,Google Cloud TTS,Neural2,punctuation,es-MX,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,0.64
+6963927161267299494,Google Cloud TTS,Neural2,punctuation,pt-PT,Qual é a sua hora estimada de chegada?,38,1.68
+5720932476813472683,Google Cloud TTS,Neural2,punctuation,pt-PT,Qual é a sua hora estimada de chegada?!,39,1.18
+8763424849636643832,Google Cloud TTS,Neural2,punctuation,pt-PT,Qual é a sua hora estimada de chegada!,38,0.38
+9073617300497966471,Google Cloud TTS,Neural2,punctuation,pt-PT,QUAL É A SUA HORA ESTIMADA DE CHEGADA,37,3.06
+5218358789969457594,Google Cloud TTS,Neural2,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?,42,2.52
+4779085507289304700,Google Cloud TTS,Neural2,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée !,42,0.49
+7402325984502547848,Google Cloud TTS,Neural2,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?!,43,2.98
+3147218506933089535,Google Cloud TTS,Neural2,punctuation,fr-FR,QUELLE EST VOTRE HEURE D'ARRIVÉE ESTIMÉE,40,1.73
+4285394411231008908,Google Cloud TTS,Neural2,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?,41,2.37
+4861836212913684735,Google Cloud TTS,Neural2,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?!,42,3.76
+2155518881546414070,Google Cloud TTS,Neural2,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue !,41,2.54
+4729656106292299734,Google Cloud TTS,Neural2,punctuation,fr-CA,QUELLE EST VOTRE HEURE D'ARRIVÉE PRÉVUE,39,0.45
+1734172674330584902,Google Cloud TTS,Neural2,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?,43,0.31
+3050515936358979461,Google Cloud TTS,Neural2,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?!,44,0.4
+1890225183133358632,Google Cloud TTS,Neural2,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating!,43,0.51
+6086512667817900912,Google Cloud TTS,Neural2,punctuation,TL,ANO ANG IYONG TINATAYANG ORAS NG PAGDATING,42,0.36
+6540790213599842058,Google Cloud TTS,Neural2,punctuation,cmn-CN,您的預計抵達時間是多少？,12,0.26
+300091040317103759,Google Cloud TTS,Neural2,punctuation,cmn-CN,您的預計抵達時間是多少 ?!,14,0.31
+1354476477386351937,Google Cloud TTS,Neural2,punctuation,cmn-CN,您的預計抵達時間是多少 !,13,0.36
+5139427897528735161,Google Cloud TTS,Neural2,punctuation,cmn-CN,您的預計抵達時間是多少,11,0.31
+3847726358492596329,Google Cloud TTS,Neural2,emojis,en-US,"🚨 Urgent, please read. 🚨",24,0.34
+1687109503146717794,Google Cloud TTS,Neural2,emojis,en-US,🚨👀🚚🥇📦👇,6,0.33
+6875820873675509052,Google Cloud TTS,Neural2,emojis,es-ES,"🚨 Urgente, por favor lee. 🚨",27,0.38
+1687109503146717794,Google Cloud TTS,Neural2,emojis,es-ES,🚨👀🚚🥇📦👇,6,0.45
+4846348643933080627,Google Cloud TTS,Neural2,emojis,es-MX,"🚨 Urgente, por favor lea. 🚨",27,0.39
+1687109503146717794,Google Cloud TTS,Neural2,emojis,es-MX,🚨👀🚚🥇📦👇,6,1.58
+8438205326172078336,Google Cloud TTS,Neural2,emojis,pt-PT,"🚨 Urgente, por favor, leia. 🚨",29,0.94
+1687109503146717794,Google Cloud TTS,Neural2,emojis,pt-PT,🚨👀🚚🥇📦👇,6,0.39
+6844320105950722603,Google Cloud TTS,Neural2,emojis,fr-FR,"🚨 C'est urgent, veuillez lire. 🚨",32,0.62
+1687109503146717794,Google Cloud TTS,Neural2,emojis,fr-FR,🚨👀🚚🥇📦👇,6,1.01
+9112258877028663840,Google Cloud TTS,Neural2,emojis,fr-CA,"🚨 Urgent, veuillez lire. 🚨",26,1.68
+1687109503146717794,Google Cloud TTS,Neural2,emojis,fr-CA,🚨👀🚚🥇📦👇,6,0.87
+4983247511418622839,Google Cloud TTS,Neural2,emojis,TL,"🚨 Kagad, mangyaring basahin. 🚨",30,0.5
+1687109503146717794,Google Cloud TTS,Neural2,emojis,TL,🚨👀🚚🥇📦👇,6,0.29
+5304210100979390629,Google Cloud TTS,Neural2,emojis,cmn-CN,🚨 緊急，請閱讀。 🚨,11,0.31
+1687109503146717794,Google Cloud TTS,Neural2,emojis,cmn-CN,🚨👀🚚🥇📦👇,6,0.33
+5012900597564205643,Google Cloud TTS,Neural2,formatted,en-US,"We met with 4 stakeholders from Grand Island Express yesterday. Good meeting. They're engaged. Huge potential to improve their predictability of delivery and save them time in what currently requires lots of phone calls and emails between dispatcher and driver. Takeaways:
+ - The Fleet Manager is the person we are optimizing for.
+ - They stand the most to gain from a voice messaging solution where they can have active 1-1 conversations with 50+ drivers in a single day to coordinate receipt timelines and re-route as necessary.
+ - There are some language barriers which we can solve partially with translated transcripts (today) and fully with audio2audio translations in the future
+ - This workflow has direct and indirect bottom line potential: cost savings vs the translation service they use today, greater predictability for customers = improved reputation and bookings, potential to deliver faster and limit driver downtime because they can more readily predict delivery timelines and solve for receivership and backhaul implications",1042,2.76
+5592522566376293303,Google Cloud TTS,Neural2,formatted,es-ES,"Ayer nos reunimos con 4 partes interesadas de Grand Island Express. Buena reunión. Están comprometidos. Enorme potencial para mejorar su previsibilidad de entrega y ahorrarles tiempo en lo que actualmente requiere muchas llamadas telefónicas y correos electrónicos entre el despachador y el conductor. Conclusiones:
+ - El administrador de flota es la persona para la que estamos optimizando.
+ - Son los que más pueden ganar con una solución de mensajería de voz donde pueden tener conversaciones individuales activas con más de 50 conductores en un solo día para coordinar los plazos de recepción y desviar la ruta según sea necesario.
+ - Existen algunas barreras del idioma que podemos resolver parcialmente con transcripciones traducidas (hoy) y completamente con traducciones audio2audio en el futuro.
+ - Este flujo de trabajo tiene potencial directo e indirecto: ahorro de costos en comparación con el servicio de traducción que utilizan hoy, mayor previsibilidad para los clientes. = reputación y reservas mejoradas, potencial para realizar entregas más rápido y limitar el tiempo de inactividad de los conductores porque pueden predecir más fácilmente los plazos de entrega y resolver las implicaciones de la administración judicial y el backhaul",1252,2.05
+5592522566376293303,Google Cloud TTS,Neural2,formatted,es-MX,"Ayer nos reunimos con 4 partes interesadas de Grand Island Express. Buena reunión. Están comprometidos. Enorme potencial para mejorar su previsibilidad de entrega y ahorrarles tiempo en lo que actualmente requiere muchas llamadas telefónicas y correos electrónicos entre el despachador y el conductor. Conclusiones:
+ - El administrador de flota es la persona para la que estamos optimizando.
+ - Son los que más pueden ganar con una solución de mensajería de voz donde pueden tener conversaciones individuales activas con más de 50 conductores en un solo día para coordinar los plazos de recepción y desviar la ruta según sea necesario.
+ - Existen algunas barreras del idioma que podemos resolver parcialmente con transcripciones traducidas (hoy) y completamente con traducciones audio2audio en el futuro.
+ - Este flujo de trabajo tiene potencial directo e indirecto: ahorro de costos en comparación con el servicio de traducción que utilizan hoy, mayor previsibilidad para los clientes. = reputación y reservas mejoradas, potencial para realizar entregas más rápido y limitar el tiempo de inactividad de los conductores porque pueden predecir más fácilmente los plazos de entrega y resolver las implicaciones de la administración judicial y el backhaul",1252,2.05
+3197426099597519985,Google Cloud TTS,Neural2,formatted,pt-PT,"Ontem nos reunimos com 4 partes interessadas da Grand Island Express. Bom encontro. Eles estão noivos. Enorme potencial para melhorar a previsibilidade de entrega e economizar tempo no que atualmente exige muitos telefonemas e e-mails entre o despachante e o motorista. Conclusões:
+ - O Gerente de Frota é a pessoa para quem estamos otimizando.
+ - Eles têm mais a ganhar com uma solução de mensagens de voz onde podem ter conversas individuais ativas com mais de 50 motoristas em um único dia para coordenar os cronogramas de recebimento e redirecionar conforme necessário.
+ - Existem algumas barreiras linguísticas que podemos resolver parcialmente com transcrições traduzidas (hoje) e totalmente com traduções audio2audio no futuro
+ - Este fluxo de trabalho tem potencial direto e indireto de resultados: economia de custos em comparação com o serviço de tradução que utilizam hoje, maior previsibilidade para os clientes = melhor reputação e reservas, potencial para entregar mais rapidamente e limitar o tempo de inatividade do motorista porque eles podem prever mais prontamente os prazos de entrega e resolver implicações de recuperação judicial e backhaul",1162,2.44
+8879900643503953991,Google Cloud TTS,Neural2,formatted,fr-FR,"Nous avons rencontré hier 4 parties prenantes de Grand Island Express. Bonne rencontre. Ils sont fiancés. Un énorme potentiel pour améliorer leur prévisibilité de livraison et leur faire gagner du temps dans ce qui nécessite actuellement de nombreux appels téléphoniques et e-mails entre le répartiteur et le chauffeur. À retenir :
+ - Le gestionnaire de flotte est la personne pour laquelle nous optimisons.
+ - Ce sont eux qui ont le plus à gagner d'une solution de messagerie vocale qui leur permet d'avoir des conversations actives en tête-à-tête avec plus de 50 chauffeurs en une seule journée pour coordonner les délais de réception et réacheminer si nécessaire.
+ - Il existe certaines barrières linguistiques que nous pouvons résoudre partiellement avec des transcriptions traduites (aujourd'hui) et entièrement avec des traductions audio-audio à l'avenir.
+ - Ce flux de travail a un potentiel de résultat direct et indirect : économies de coûts par rapport au service de traduction qu'ils utilisent aujourd'hui, plus grande prévisibilité pour les clients. = amélioration de la réputation et des réservations, possibilité de livrer plus rapidement et de limiter les temps d'arrêt des chauffeurs, car ils peuvent plus facilement prédire les délais de livraison et résoudre les implications en matière de mise sous séquestre et de transport.",1344,2.15
+8879900643503953991,Google Cloud TTS,Neural2,formatted,fr-CA,"Nous avons rencontré hier 4 parties prenantes de Grand Island Express. Bonne rencontre. Ils sont fiancés. Un énorme potentiel pour améliorer leur prévisibilité de livraison et leur faire gagner du temps dans ce qui nécessite actuellement de nombreux appels téléphoniques et e-mails entre le répartiteur et le chauffeur. À retenir :
+ - Le gestionnaire de flotte est la personne pour laquelle nous optimisons.
+ - Ce sont eux qui ont le plus à gagner d'une solution de messagerie vocale qui leur permet d'avoir des conversations actives en tête-à-tête avec plus de 50 chauffeurs en une seule journée pour coordonner les délais de réception et réacheminer si nécessaire.
+ - Il existe certaines barrières linguistiques que nous pouvons résoudre partiellement avec des transcriptions traduites (aujourd'hui) et entièrement avec des traductions audio-audio à l'avenir.
+ - Ce flux de travail a un potentiel de résultat direct et indirect : économies de coûts par rapport au service de traduction qu'ils utilisent aujourd'hui, plus grande prévisibilité pour les clients. = amélioration de la réputation et des réservations, possibilité de livrer plus rapidement et de limiter les temps d'arrêt des chauffeurs, car ils peuvent plus facilement prédire les délais de livraison et résoudre les implications en matière de mise sous séquestre et de transport.",1344,2.67
+6583000813609596294,Google Cloud TTS,Neural2,formatted,TL,"Nakipagpulong kami sa 4 na stakeholder mula sa Grand Island Express kahapon. Magandang pagpupulong. engaged na sila. Malaking potensyal na mapabuti ang kanilang predicability ng paghahatid at makatipid sa kanila ng oras sa kasalukuyang nangangailangan ng maraming tawag sa telepono at email sa pagitan ng dispatcher at driver. Takeaways:
+ - Ang Fleet Manager ay ang taong ino-optimize namin.
+ - Pinakamahusay silang makamit mula sa isang voice messaging solution kung saan maaari silang magkaroon ng aktibong 1-1 na pag-uusap sa 50+ na driver sa isang araw upang i-coordinate ang mga timeline ng resibo at muling ruta kung kinakailangan.
+ - Mayroong ilang mga hadlang sa wika na bahagyang malulutas namin gamit ang mga isinaling transcript (ngayon) at ganap na may mga pagsasalin ng audio2audio sa hinaharap
+ - Ang daloy ng trabaho na ito ay may direkta at hindi direktang potensyal na pang-ibabaw: makatipid sa gastos kumpara sa serbisyo ng pagsasalin na ginagamit nila ngayon, mas mahuhulaan para sa mga customer = pinahusay na reputasyon at mga booking, potensyal na makapaghatid ng mas mabilis at limitahan ang downtime ng driver dahil mas madali nilang mahulaan ang mga timeline ng paghahatid at malutas ang mga implikasyon ng receivership at backhaul",1256,3.65
+785229126259378429,Google Cloud TTS,Neural2,formatted,cmn-CN,"昨天我们会见了 Grand Island Express 的 4 位利益相关者。 很好的会议。 他们订婚了。 提高送货的可预测性并节省时间的巨大潜力，因为目前调度员和司机之间需要大量的电话和电子邮件。 要点：
+ - 车队经理是我们正在优化的人。
+ - 他们从语音消息解决方案中获益最多，在该解决方案中，他们可以在一天内与 50 多名司机进行积极的 1-1 对话，以协调收货时间表并根据需要重新安排路线。
+ - 有一些语言障碍，我们可以通过翻译文本（今天）部分解决，并在未来通过音频到音频翻译完全解决
+ - 此工作流程具有直接和间接的底线潜力：与他们今天使用的翻译服务相比，可以节省成本，为客户提供更高的可预测性 = 提高声誉和预订量，加快交付速度并限制司机停机时间的潜力，因为他们可以更轻松地预测交付时间并解决接管和回程影响",362,8.74
+5598788532219186256,Google Cloud TTS,Neural2,numbers_and_acronyms,en-US,The receiver is located at 1567 W Oakley St. Take the RH turn at Main St. Whats your ETA? They are expecting you at 2:30pm CT. Go to https://espn.com to learn more.,164,2.15
+2648415614242185560,Google Cloud TTS,Neural2,numbers_and_acronyms,es-ES,El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información.,186,1.73
+2648415614242185560,Google Cloud TTS,Neural2,numbers_and_acronyms,es-MX,El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información.,186,1.6
+6995926864517079097,Google Cloud TTS,Neural2,numbers_and_acronyms,pt-PT,O receptor está localizado em 1567 W Oakley St. Faça a curva RH na Main St. Qual é o seu HEC? Eles estão esperando você às 14h30 CT. Acesse https://espn.com para saber mais.,173,0.8
+1113182746071057442,Google Cloud TTS,Neural2,numbers_and_acronyms,fr-FR,Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus.,184,0.86
+1113182746071057442,Google Cloud TTS,Neural2,numbers_and_acronyms,fr-CA,Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus.,184,0.87
+2004304876715005711,Google Cloud TTS,Neural2,numbers_and_acronyms,TL,Ang receiver ay matatagpuan sa 1567 W Oakley St. Lumiko sa RH sa Main St. Ano ang iyong ETA? Inaasahan ka nila sa 2:30pm CT. Pumunta sa https://espn.com para matuto pa.,168,1.26
+3967590282737680483,Google Cloud TTS,Neural2,numbers_and_acronyms,cmn-CN,接收器位于 1567 W Oakley St。在 Main St 右转。您的预计到达时间是多少？ 他们将于中部时间下午 2:30 等您。 请访问 https://espn.com 了解更多信息。,97,0.55
+4302095566668577217,Google Cloud TTS,Neural2,names,en-US,Wendy Thompson from Acme Supply in Chattanooga is expecting you to call Ryan McGarvey and JP Gooderham this afternoon. Nick DePrey is also awaiting your call.,158,3.17
+998680253006016841,Google Cloud TTS,Neural2,names,es-ES,Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada.,151,0.77
+998680253006016841,Google Cloud TTS,Neural2,names,es-MX,Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada.,151,1.71
+6644531374356273619,Google Cloud TTS,Neural2,names,pt-PT,"Wendy Thompson, da Acme Supply em Chattanooga, espera que você ligue para Ryan McGarvey e JP Gooderham esta tarde. Nick DePrey também está aguardando sua ligação.",162,1.14
+3840510415870801762,Google Cloud TTS,Neural2,names,fr-FR,Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel.,162,2.24
+3840510415870801762,Google Cloud TTS,Neural2,names,fr-CA,Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel.,162,1.4
+2522421358713697993,Google Cloud TTS,Neural2,names,TL,Inaasahan ni Wendy Thompson mula sa Acme Supply sa Chattanooga na tatawagan mo sina Ryan McGarvey at JP Gooderham ngayong hapon. Hinihintay din ni Nick DePrey ang iyong tawag.,175,0.82
+6621310612526427831,Google Cloud TTS,Neural2,names,cmn-CN,查塔努加 Acme Supply 的 Wendy Thompson 希望您今天下午给 Ryan McGarvey 和 JP Gooderham 打电话。,76,0.4
+5050122857417917918,Amazon Polly,Joanna,simple,en-US,Hello. how are you?,19,0.45
+4723458336888268056,Amazon Polly,Joanna,simple,en-US,The quick brown fox jumps over the lazy dog.,44,0.27
+2128046651204020937,Amazon Polly,Joanna,simple,en-US,Peter Piper picked a pack of pickled peppers.,45,0.28
+3054432093940734666,Amazon Polly,Joanna,simple,es-ES,Hola. ¿Cómo estás?,18,0.28
+4723853529125811642,Amazon Polly,Joanna,simple,es-ES,El rápido zorro marrón salta sobre el perro perezoso.,53,0.29
+8057758260943132463,Amazon Polly,Joanna,simple,es-ES,Peter Piper eligió un paquete de pimientos encurtidos.,54,0.32
+3054432093940734666,Amazon Polly,Joanna,simple,es-MX,Hola. ¿Cómo estás?,18,0.25
+4723853529125811642,Amazon Polly,Joanna,simple,es-MX,El rápido zorro marrón salta sobre el perro perezoso.,53,0.3
+2434116668182150157,Amazon Polly,Joanna,simple,es-MX,Peter Piper recogió un paquete de pimientos encurtidos.,55,0.3
+3096082548956111691,Amazon Polly,Joanna,simple,pt-PT,Olá. Como você está?,20,0.28
+7344035453137844556,Amazon Polly,Joanna,simple,pt-PT,A rápida raposa marrom pula sobre o cachorro preguiçoso.,56,0.33
+846931482405541421,Amazon Polly,Joanna,simple,pt-PT,Peter Piper pegou um pacote de pimentos em conserva.,52,0.29
+3145702015350118147,Amazon Polly,Joanna,simple,fr-FR,Bonjour. Comment allez-vous ?,29,0.26
+8751335929790207219,Amazon Polly,Joanna,simple,fr-FR,Le rapide renard brun saute par-dessus le chien paresseux.,58,0.28
+4433814219359917503,Amazon Polly,Joanna,simple,fr-FR,Peter Piper a cueilli un paquet de poivrons marinés.,52,0.27
+3145702015350118147,Amazon Polly,Joanna,simple,fr-CA,Bonjour. Comment allez-vous ?,29,0.26
+7754503853939528617,Amazon Polly,Joanna,simple,fr-CA,Le renard brun saute par-dessus le chien paresseux.,51,0.29
+4433814219359917503,Amazon Polly,Joanna,simple,fr-CA,Peter Piper a cueilli un paquet de poivrons marinés.,52,0.3
+5850820994221961112,Amazon Polly,Joanna,simple,TL,Kumusta. Kumusta ka?,20,0.26
+7879812812124342556,Amazon Polly,Joanna,simple,TL,Tumalon ang mabilis na kayumanggi na lobos sa tamad na aso.,59,0.3
+5691281563316509445,Amazon Polly,Joanna,simple,TL,Pumili ni Peter Piper ng isang pakete ng mga inakado na paminta.,64,0.3
+7779832508894458111,Amazon Polly,Joanna,simple,cmn-CN,你好你好嗎,5,0.26
+5017907856231206893,Amazon Polly,Joanna,simple,cmn-CN,快速的棕色狐狸跳過懶狗。,12,0.27
+1516116292418978645,Amazon Polly,Joanna,simple,cmn-CN,彼得·派珀摘了一包醃辣椒。,13,0.27
+6220801364038829315,Amazon Polly,Joanna,punctuation,en-US,What is your estimated time of arival?,38,0.28
+8897822828736033627,Amazon Polly,Joanna,punctuation,en-US,What is your estimated time of arival?!,39,0.27
+1974244343619991797,Amazon Polly,Joanna,punctuation,en-US,What is your estimated time of arival!,38,0.26
+6355220214423876845,Amazon Polly,Joanna,punctuation,en-US,WHAT IS YOUR ESTIMATED TIME OF ARIVIAL,38,0.28
+6592191942328190942,Amazon Polly,Joanna,punctuation,es-ES,¿Cuál es su hora estimada de llegada?,37,0.26
+3788106038637114092,Amazon Polly,Joanna,punctuation,es-ES,¡Cuál es su hora estimada de llegada?,37,0.26
+6623692864862690734,Amazon Polly,Joanna,punctuation,es-ES,¡Cuál es su hora estimada de llegada!,37,0.25
+3855355172846405042,Amazon Polly,Joanna,punctuation,es-ES,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,0.27
+6592191942328190942,Amazon Polly,Joanna,punctuation,es-MX,¿Cuál es su hora estimada de llegada?,37,0.28
+3788106038637114092,Amazon Polly,Joanna,punctuation,es-MX,¡Cuál es su hora estimada de llegada?,37,0.25
+6623692864862690734,Amazon Polly,Joanna,punctuation,es-MX,¡Cuál es su hora estimada de llegada!,37,0.27
+3855355172846405042,Amazon Polly,Joanna,punctuation,es-MX,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,0.27
+222259641738360483,Amazon Polly,Joanna,punctuation,pt-PT,Qual é a sua hora estimada de chegada?,38,0.26
+4200938322774304835,Amazon Polly,Joanna,punctuation,pt-PT,Qual é a sua hora estimada de chegada?!,39,0.26
+4976503112741849146,Amazon Polly,Joanna,punctuation,pt-PT,Qual é a sua hora estimada de chegada!,38,0.26
+1170156249227463129,Amazon Polly,Joanna,punctuation,pt-PT,QUAL É A SUA HORA ESTIMADA DE CHEGADA,37,0.28
+4735442331224443681,Amazon Polly,Joanna,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?,42,0.26
+2032056790481879936,Amazon Polly,Joanna,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée !,42,0.26
+6223079062022705042,Amazon Polly,Joanna,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?!,43,0.26
+2814132088181531507,Amazon Polly,Joanna,punctuation,fr-FR,QUELLE EST VOTRE HEURE D'ARRIVÉE ESTIMÉE,40,0.27
+5943790067004170106,Amazon Polly,Joanna,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?,41,0.25
+6951588889396431180,Amazon Polly,Joanna,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?!,42,0.28
+5550607619688365561,Amazon Polly,Joanna,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue !,41,0.27
+3088695716725371850,Amazon Polly,Joanna,punctuation,fr-CA,QUELLE EST VOTRE HEURE D'ARRIVÉE PRÉVUE,39,0.26
+1817983458423570615,Amazon Polly,Joanna,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?,43,0.27
+4026865410314060541,Amazon Polly,Joanna,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?!,44,0.28
+504364987437673322,Amazon Polly,Joanna,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating!,43,0.29
+3503331274602395515,Amazon Polly,Joanna,punctuation,TL,ANO ANG IYONG TINATAYANG ORAS NG PAGDATING,42,0.3
+1578217549486270093,Amazon Polly,Joanna,punctuation,cmn-CN,您的預計抵達時間是多少？,12,0.27
+6090789866661006002,Amazon Polly,Joanna,punctuation,cmn-CN,您的預計抵達時間是多少 ?!,14,0.3
+3072993240547553837,Amazon Polly,Joanna,punctuation,cmn-CN,您的預計抵達時間是多少 !,13,0.26
+8160451087829042508,Amazon Polly,Joanna,punctuation,cmn-CN,您的預計抵達時間是多少,11,0.26
+3031175923893951776,Amazon Polly,Joanna,emojis,en-US,"🚨 Urgent, please read. 🚨",24,0.29
+26734341015954263,Amazon Polly,Joanna,emojis,en-US,🚨👀🚚🥇📦👇,6,0.29
+620673934539847688,Amazon Polly,Joanna,emojis,es-ES,"🚨 Urgente, por favor lee. 🚨",27,0.29
+26734341015954263,Amazon Polly,Joanna,emojis,es-ES,🚨👀🚚🥇📦👇,6,0.32
+1032472714093948181,Amazon Polly,Joanna,emojis,es-MX,"🚨 Urgente, por favor lea. 🚨",27,0.29
+26734341015954263,Amazon Polly,Joanna,emojis,es-MX,🚨👀🚚🥇📦👇,6,0.33
+366340617701636711,Amazon Polly,Joanna,emojis,pt-PT,"🚨 Urgente, por favor, leia. 🚨",29,0.27
+26734341015954263,Amazon Polly,Joanna,emojis,pt-PT,🚨👀🚚🥇📦👇,6,0.23
+2346587134089824196,Amazon Polly,Joanna,emojis,fr-FR,"🚨 C'est urgent, veuillez lire. 🚨",32,0.29
+26734341015954263,Amazon Polly,Joanna,emojis,fr-FR,🚨👀🚚🥇📦👇,6,0.32
+88972727451328469,Amazon Polly,Joanna,emojis,fr-CA,"🚨 Urgent, veuillez lire. 🚨",26,0.3
+26734341015954263,Amazon Polly,Joanna,emojis,fr-CA,🚨👀🚚🥇📦👇,6,0.3
+2497631622949037724,Amazon Polly,Joanna,emojis,TL,"🚨 Kagad, mangyaring basahin. 🚨",30,0.31
+26734341015954263,Amazon Polly,Joanna,emojis,TL,🚨👀🚚🥇📦👇,6,0.3
+59175560675920469,Amazon Polly,Joanna,emojis,cmn-CN,🚨 緊急，請閱讀。 🚨,11,0.26
+26734341015954263,Amazon Polly,Joanna,emojis,cmn-CN,🚨👀🚚🥇📦👇,6,0.25
+5995961187701379436,Amazon Polly,Joanna,formatted,en-US,"We met with 4 stakeholders from Grand Island Express yesterday. Good meeting. They're engaged. Huge potential to improve their predictability of delivery and save them time in what currently requires lots of phone calls and emails between dispatcher and driver. Takeaways:
+ - The Fleet Manager is the person we are optimizing for.
+ - They stand the most to gain from a voice messaging solution where they can have active 1-1 conversations with 50+ drivers in a single day to coordinate receipt timelines and re-route as necessary.
+ - There are some language barriers which we can solve partially with translated transcripts (today) and fully with audio2audio translations in the future
+ - This workflow has direct and indirect bottom line potential: cost savings vs the translation service they use today, greater predictability for customers = improved reputation and bookings, potential to deliver faster and limit driver downtime because they can more readily predict delivery timelines and solve for receivership and backhaul implications",1042,0.76
+438079419089691391,Amazon Polly,Joanna,formatted,es-ES,"Ayer nos reunimos con 4 partes interesadas de Grand Island Express. Buena reunión. Están comprometidos. Enorme potencial para mejorar su previsibilidad de entrega y ahorrarles tiempo en lo que actualmente requiere muchas llamadas telefónicas y correos electrónicos entre el despachador y el conductor. Conclusiones:
+ - El administrador de flota es la persona para la que estamos optimizando.
+ - Son los que más pueden ganar con una solución de mensajería de voz donde pueden tener conversaciones individuales activas con más de 50 conductores en un solo día para coordinar los plazos de recepción y desviar la ruta según sea necesario.
+ - Existen algunas barreras del idioma que podemos resolver parcialmente con transcripciones traducidas (hoy) y completamente con traducciones audio2audio en el futuro.
+ - Este flujo de trabajo tiene potencial directo e indirecto: ahorro de costos en comparación con el servicio de traducción que utilizan hoy, mayor previsibilidad para los clientes. = reputación y reservas mejoradas, potencial para realizar entregas más rápido y limitar el tiempo de inactividad de los conductores porque pueden predecir más fácilmente los plazos de entrega y resolver las implicaciones de la administración judicial y el backhaul",1252,0.86
+438079419089691391,Amazon Polly,Joanna,formatted,es-MX,"Ayer nos reunimos con 4 partes interesadas de Grand Island Express. Buena reunión. Están comprometidos. Enorme potencial para mejorar su previsibilidad de entrega y ahorrarles tiempo en lo que actualmente requiere muchas llamadas telefónicas y correos electrónicos entre el despachador y el conductor. Conclusiones:
+ - El administrador de flota es la persona para la que estamos optimizando.
+ - Son los que más pueden ganar con una solución de mensajería de voz donde pueden tener conversaciones individuales activas con más de 50 conductores en un solo día para coordinar los plazos de recepción y desviar la ruta según sea necesario.
+ - Existen algunas barreras del idioma que podemos resolver parcialmente con transcripciones traducidas (hoy) y completamente con traducciones audio2audio en el futuro.
+ - Este flujo de trabajo tiene potencial directo e indirecto: ahorro de costos en comparación con el servicio de traducción que utilizan hoy, mayor previsibilidad para los clientes. = reputación y reservas mejoradas, potencial para realizar entregas más rápido y limitar el tiempo de inactividad de los conductores porque pueden predecir más fácilmente los plazos de entrega y resolver las implicaciones de la administración judicial y el backhaul",1252,1.03
+8666025318563419604,Amazon Polly,Joanna,formatted,pt-PT,"Ontem nos reunimos com 4 partes interessadas da Grand Island Express. Bom encontro. Eles estão noivos. Enorme potencial para melhorar a previsibilidade de entrega e economizar tempo no que atualmente exige muitos telefonemas e e-mails entre o despachante e o motorista. Conclusões:
+ - O Gerente de Frota é a pessoa para quem estamos otimizando.
+ - Eles têm mais a ganhar com uma solução de mensagens de voz onde podem ter conversas individuais ativas com mais de 50 motoristas em um único dia para coordenar os cronogramas de recebimento e redirecionar conforme necessário.
+ - Existem algumas barreiras linguísticas que podemos resolver parcialmente com transcrições traduzidas (hoje) e totalmente com traduções audio2audio no futuro
+ - Este fluxo de trabalho tem potencial direto e indireto de resultados: economia de custos em comparação com o serviço de tradução que utilizam hoje, maior previsibilidade para os clientes = melhor reputação e reservas, potencial para entregar mais rapidamente e limitar o tempo de inatividade do motorista porque eles podem prever mais prontamente os prazos de entrega e resolver implicações de recuperação judicial e backhaul",1162,0.88
+1839787960877439820,Amazon Polly,Joanna,formatted,fr-FR,"Nous avons rencontré hier 4 parties prenantes de Grand Island Express. Bonne rencontre. Ils sont fiancés. Un énorme potentiel pour améliorer leur prévisibilité de livraison et leur faire gagner du temps dans ce qui nécessite actuellement de nombreux appels téléphoniques et e-mails entre le répartiteur et le chauffeur. À retenir :
+ - Le gestionnaire de flotte est la personne pour laquelle nous optimisons.
+ - Ce sont eux qui ont le plus à gagner d'une solution de messagerie vocale qui leur permet d'avoir des conversations actives en tête-à-tête avec plus de 50 chauffeurs en une seule journée pour coordonner les délais de réception et réacheminer si nécessaire.
+ - Il existe certaines barrières linguistiques que nous pouvons résoudre partiellement avec des transcriptions traduites (aujourd'hui) et entièrement avec des traductions audio-audio à l'avenir.
+ - Ce flux de travail a un potentiel de résultat direct et indirect : économies de coûts par rapport au service de traduction qu'ils utilisent aujourd'hui, plus grande prévisibilité pour les clients. = amélioration de la réputation et des réservations, possibilité de livrer plus rapidement et de limiter les temps d'arrêt des chauffeurs, car ils peuvent plus facilement prédire les délais de livraison et résoudre les implications en matière de mise sous séquestre et de transport.",1344,1.03
+1839787960877439820,Amazon Polly,Joanna,formatted,fr-CA,"Nous avons rencontré hier 4 parties prenantes de Grand Island Express. Bonne rencontre. Ils sont fiancés. Un énorme potentiel pour améliorer leur prévisibilité de livraison et leur faire gagner du temps dans ce qui nécessite actuellement de nombreux appels téléphoniques et e-mails entre le répartiteur et le chauffeur. À retenir :
+ - Le gestionnaire de flotte est la personne pour laquelle nous optimisons.
+ - Ce sont eux qui ont le plus à gagner d'une solution de messagerie vocale qui leur permet d'avoir des conversations actives en tête-à-tête avec plus de 50 chauffeurs en une seule journée pour coordonner les délais de réception et réacheminer si nécessaire.
+ - Il existe certaines barrières linguistiques que nous pouvons résoudre partiellement avec des transcriptions traduites (aujourd'hui) et entièrement avec des traductions audio-audio à l'avenir.
+ - Ce flux de travail a un potentiel de résultat direct et indirect : économies de coûts par rapport au service de traduction qu'ils utilisent aujourd'hui, plus grande prévisibilité pour les clients. = amélioration de la réputation et des réservations, possibilité de livrer plus rapidement et de limiter les temps d'arrêt des chauffeurs, car ils peuvent plus facilement prédire les délais de livraison et résoudre les implications en matière de mise sous séquestre et de transport.",1344,0.93
+3099461780899633505,Amazon Polly,Joanna,formatted,TL,"Nakipagpulong kami sa 4 na stakeholder mula sa Grand Island Express kahapon. Magandang pagpupulong. engaged na sila. Malaking potensyal na mapabuti ang kanilang predicability ng paghahatid at makatipid sa kanila ng oras sa kasalukuyang nangangailangan ng maraming tawag sa telepono at email sa pagitan ng dispatcher at driver. Takeaways:
+ - Ang Fleet Manager ay ang taong ino-optimize namin.
+ - Pinakamahusay silang makamit mula sa isang voice messaging solution kung saan maaari silang magkaroon ng aktibong 1-1 na pag-uusap sa 50+ na driver sa isang araw upang i-coordinate ang mga timeline ng resibo at muling ruta kung kinakailangan.
+ - Mayroong ilang mga hadlang sa wika na bahagyang malulutas namin gamit ang mga isinaling transcript (ngayon) at ganap na may mga pagsasalin ng audio2audio sa hinaharap
+ - Ang daloy ng trabaho na ito ay may direkta at hindi direktang potensyal na pang-ibabaw: makatipid sa gastos kumpara sa serbisyo ng pagsasalin na ginagamit nila ngayon, mas mahuhulaan para sa mga customer = pinahusay na reputasyon at mga booking, potensyal na makapaghatid ng mas mabilis at limitahan ang downtime ng driver dahil mas madali nilang mahulaan ang mga timeline ng paghahatid at malutas ang mga implikasyon ng receivership at backhaul",1256,1.06
+3592069240342274440,Amazon Polly,Joanna,formatted,cmn-CN,"昨天我们会见了 Grand Island Express 的 4 位利益相关者。 很好的会议。 他们订婚了。 提高送货的可预测性并节省时间的巨大潜力，因为目前调度员和司机之间需要大量的电话和电子邮件。 要点：
+ - 车队经理是我们正在优化的人。
+ - 他们从语音消息解决方案中获益最多，在该解决方案中，他们可以在一天内与 50 多名司机进行积极的 1-1 对话，以协调收货时间表并根据需要重新安排路线。
+ - 有一些语言障碍，我们可以通过翻译文本（今天）部分解决，并在未来通过音频到音频翻译完全解决
+ - 此工作流程具有直接和间接的底线潜力：与他们今天使用的翻译服务相比，可以节省成本，为客户提供更高的可预测性 = 提高声誉和预订量，加快交付速度并限制司机停机时间的潜力，因为他们可以更轻松地预测交付时间并解决接管和回程影响",362,0.91
+1937663813615923650,Amazon Polly,Joanna,numbers_and_acronyms,en-US,The receiver is located at 1567 W Oakley St. Take the RH turn at Main St. Whats your ETA? They are expecting you at 2:30pm CT. Go to https://espn.com to learn more.,164,0.42
+6764757354299009119,Amazon Polly,Joanna,numbers_and_acronyms,es-ES,El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información.,186,0.42
+6764757354299009119,Amazon Polly,Joanna,numbers_and_acronyms,es-MX,El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información.,186,0.45
+5672248196787943572,Amazon Polly,Joanna,numbers_and_acronyms,pt-PT,O receptor está localizado em 1567 W Oakley St. Faça a curva RH na Main St. Qual é o seu HEC? Eles estão esperando você às 14h30 CT. Acesse https://espn.com para saber mais.,173,0.41
+7119937864296611266,Amazon Polly,Joanna,numbers_and_acronyms,fr-FR,Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus.,184,0.38
+7119937864296611266,Amazon Polly,Joanna,numbers_and_acronyms,fr-CA,Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus.,184,0.38
+7733160046474236588,Amazon Polly,Joanna,numbers_and_acronyms,TL,Ang receiver ay matatagpuan sa 1567 W Oakley St. Lumiko sa RH sa Main St. Ano ang iyong ETA? Inaasahan ka nila sa 2:30pm CT. Pumunta sa https://espn.com para matuto pa.,168,60.44
+8794358404438430362,Amazon Polly,Joanna,numbers_and_acronyms,cmn-CN,接收器位于 1567 W Oakley St。在 Main St 右转。您的预计到达时间是多少？ 他们将于中部时间下午 2:30 等您。 请访问 https://espn.com 了解更多信息。,97,0.47
+7701604285393580548,Amazon Polly,Joanna,names,en-US,Wendy Thompson from Acme Supply in Chattanooga is expecting you to call Ryan McGarvey and JP Gooderham this afternoon. Nick DePrey is also awaiting your call.,158,0.36
+788661370582765364,Amazon Polly,Joanna,names,es-ES,Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada.,151,0.35
+788661370582765364,Amazon Polly,Joanna,names,es-MX,Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada.,151,0.33
+6216542995906770459,Amazon Polly,Joanna,names,pt-PT,"Wendy Thompson, da Acme Supply em Chattanooga, espera que você ligue para Ryan McGarvey e JP Gooderham esta tarde. Nick DePrey também está aguardando sua ligação.",162,0.36
+498061321780959985,Amazon Polly,Joanna,names,fr-FR,Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel.,162,0.34
+498061321780959985,Amazon Polly,Joanna,names,fr-CA,Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel.,162,0.34
+7938601029634486283,Amazon Polly,Joanna,names,TL,Inaasahan ni Wendy Thompson mula sa Acme Supply sa Chattanooga na tatawagan mo sina Ryan McGarvey at JP Gooderham ngayong hapon. Hinihintay din ni Nick DePrey ang iyong tawag.,175,0.36
+124961591855883403,Amazon Polly,Joanna,names,cmn-CN,查塔努加 Acme Supply 的 Wendy Thompson 希望您今天下午给 Ryan McGarvey 和 JP Gooderham 打电话。,76,0.32
+1337427771286568629,Amazon Polly,Matthew,simple,en-US,Hello. how are you?,19,0.33
+8405696141739961933,Amazon Polly,Matthew,simple,en-US,The quick brown fox jumps over the lazy dog.,44,0.29
+1837366649530157660,Amazon Polly,Matthew,simple,en-US,Peter Piper picked a pack of pickled peppers.,45,0.26
+8917482194368093421,Amazon Polly,Matthew,simple,es-ES,Hola. ¿Cómo estás?,18,0.26
+6599888994745390902,Amazon Polly,Matthew,simple,es-ES,El rápido zorro marrón salta sobre el perro perezoso.,53,0.3
+4908332829637113824,Amazon Polly,Matthew,simple,es-ES,Peter Piper eligió un paquete de pimientos encurtidos.,54,0.3
+8917482194368093421,Amazon Polly,Matthew,simple,es-MX,Hola. ¿Cómo estás?,18,0.26
+6599888994745390902,Amazon Polly,Matthew,simple,es-MX,El rápido zorro marrón salta sobre el perro perezoso.,53,0.3
+605058831964875282,Amazon Polly,Matthew,simple,es-MX,Peter Piper recogió un paquete de pimientos encurtidos.,55,0.32
+5163823885164451682,Amazon Polly,Matthew,simple,pt-PT,Olá. Como você está?,20,0.26
+3423008433691896135,Amazon Polly,Matthew,simple,pt-PT,A rápida raposa marrom pula sobre o cachorro preguiçoso.,56,0.31
+831962588382608118,Amazon Polly,Matthew,simple,pt-PT,Peter Piper pegou um pacote de pimentos em conserva.,52,0.51
+2219952119039569383,Amazon Polly,Matthew,simple,fr-FR,Bonjour. Comment allez-vous ?,29,0.26
+103352091419584560,Amazon Polly,Matthew,simple,fr-FR,Le rapide renard brun saute par-dessus le chien paresseux.,58,0.27
+2245083191275577675,Amazon Polly,Matthew,simple,fr-FR,Peter Piper a cueilli un paquet de poivrons marinés.,52,0.31
+2219952119039569383,Amazon Polly,Matthew,simple,fr-CA,Bonjour. Comment allez-vous ?,29,0.25
+7201429076527312617,Amazon Polly,Matthew,simple,fr-CA,Le renard brun saute par-dessus le chien paresseux.,51,0.28
+2245083191275577675,Amazon Polly,Matthew,simple,fr-CA,Peter Piper a cueilli un paquet de poivrons marinés.,52,0.27
+996580753583364841,Amazon Polly,Matthew,simple,TL,Kumusta. Kumusta ka?,20,0.27
+5492160930709060659,Amazon Polly,Matthew,simple,TL,Tumalon ang mabilis na kayumanggi na lobos sa tamad na aso.,59,0.31
+3325904847717979005,Amazon Polly,Matthew,simple,TL,Pumili ni Peter Piper ng isang pakete ng mga inakado na paminta.,64,0.3
+6430067081825565219,Amazon Polly,Matthew,simple,cmn-CN,你好你好嗎,5,0.25
+1019633202347198655,Amazon Polly,Matthew,simple,cmn-CN,快速的棕色狐狸跳過懶狗。,12,0.27
+8937290456879470019,Amazon Polly,Matthew,simple,cmn-CN,彼得·派珀摘了一包醃辣椒。,13,0.27
+5096665401227478676,Amazon Polly,Matthew,punctuation,en-US,What is your estimated time of arival?,38,0.27
+2555601435112729328,Amazon Polly,Matthew,punctuation,en-US,What is your estimated time of arival?!,39,0.26
+3131165194850445508,Amazon Polly,Matthew,punctuation,en-US,What is your estimated time of arival!,38,0.27
+4974004731406580248,Amazon Polly,Matthew,punctuation,en-US,WHAT IS YOUR ESTIMATED TIME OF ARIVIAL,38,0.29
+5209902072030948237,Amazon Polly,Matthew,punctuation,es-ES,¿Cuál es su hora estimada de llegada?,37,0.28
+7992869835649454110,Amazon Polly,Matthew,punctuation,es-ES,¡Cuál es su hora estimada de llegada?,37,0.26
+713694938320134865,Amazon Polly,Matthew,punctuation,es-ES,¡Cuál es su hora estimada de llegada!,37,0.27
+1466957427695184836,Amazon Polly,Matthew,punctuation,es-ES,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,0.28
+5209902072030948237,Amazon Polly,Matthew,punctuation,es-MX,¿Cuál es su hora estimada de llegada?,37,0.27
+7992869835649454110,Amazon Polly,Matthew,punctuation,es-MX,¡Cuál es su hora estimada de llegada?,37,0.3
+713694938320134865,Amazon Polly,Matthew,punctuation,es-MX,¡Cuál es su hora estimada de llegada!,37,0.27
+1466957427695184836,Amazon Polly,Matthew,punctuation,es-MX,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,0.27
+3617277976693856815,Amazon Polly,Matthew,punctuation,pt-PT,Qual é a sua hora estimada de chegada?,38,0.27
+3518860396038698406,Amazon Polly,Matthew,punctuation,pt-PT,Qual é a sua hora estimada de chegada?!,39,0.27
+2565378399034824765,Amazon Polly,Matthew,punctuation,pt-PT,Qual é a sua hora estimada de chegada!,38,0.28
+3015656589939959347,Amazon Polly,Matthew,punctuation,pt-PT,QUAL É A SUA HORA ESTIMADA DE CHEGADA,37,0.27
+3350271629758649532,Amazon Polly,Matthew,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?,42,0.27
+9157008683989349219,Amazon Polly,Matthew,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée !,42,0.27
+4526140875938572776,Amazon Polly,Matthew,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?!,43,0.3
+8990912027439703962,Amazon Polly,Matthew,punctuation,fr-FR,QUELLE EST VOTRE HEURE D'ARRIVÉE ESTIMÉE,40,0.28
+7877767257215023360,Amazon Polly,Matthew,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?,41,0.27
+681902435189225900,Amazon Polly,Matthew,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?!,42,0.28
+3122022775989642805,Amazon Polly,Matthew,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue !,41,0.26
+7328998050876077718,Amazon Polly,Matthew,punctuation,fr-CA,QUELLE EST VOTRE HEURE D'ARRIVÉE PRÉVUE,39,0.27
+3989183288562300473,Amazon Polly,Matthew,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?,43,0.28
+7694840434355287223,Amazon Polly,Matthew,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?!,44,0.29
+6980570279863851177,Amazon Polly,Matthew,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating!,43,0.28
+3713697132864243042,Amazon Polly,Matthew,punctuation,TL,ANO ANG IYONG TINATAYANG ORAS NG PAGDATING,42,0.32
+8306377966627138269,Amazon Polly,Matthew,punctuation,cmn-CN,您的預計抵達時間是多少？,12,0.29
+4619795543391130169,Amazon Polly,Matthew,punctuation,cmn-CN,您的預計抵達時間是多少 ?!,14,0.28
+4724483836463166940,Amazon Polly,Matthew,punctuation,cmn-CN,您的預計抵達時間是多少 !,13,0.28
+5699653499970191396,Amazon Polly,Matthew,punctuation,cmn-CN,您的預計抵達時間是多少,11,0.28
+9128938620899459232,Amazon Polly,Matthew,emojis,en-US,"🚨 Urgent, please read. 🚨",24,0.32
+5361920672947547883,Amazon Polly,Matthew,emojis,en-US,🚨👀🚚🥇📦👇,6,0.32
+5537897206289942616,Amazon Polly,Matthew,emojis,es-ES,"🚨 Urgente, por favor lee. 🚨",27,0.32
+5361920672947547883,Amazon Polly,Matthew,emojis,es-ES,🚨👀🚚🥇📦👇,6,0.37
+2910787884122324279,Amazon Polly,Matthew,emojis,es-MX,"🚨 Urgente, por favor lea. 🚨",27,0.32
+5361920672947547883,Amazon Polly,Matthew,emojis,es-MX,🚨👀🚚🥇📦👇,6,0.35
+4218105478904440952,Amazon Polly,Matthew,emojis,pt-PT,"🚨 Urgente, por favor, leia. 🚨",29,0.27
+5361920672947547883,Amazon Polly,Matthew,emojis,pt-PT,🚨👀🚚🥇📦👇,6,0.25
+240717912031166112,Amazon Polly,Matthew,emojis,fr-FR,"🚨 C'est urgent, veuillez lire. 🚨",32,0.31
+5361920672947547883,Amazon Polly,Matthew,emojis,fr-FR,🚨👀🚚🥇📦👇,6,0.34
+7610036947537596173,Amazon Polly,Matthew,emojis,fr-CA,"🚨 Urgent, veuillez lire. 🚨",26,0.28
+5361920672947547883,Amazon Polly,Matthew,emojis,fr-CA,🚨👀🚚🥇📦👇,6,0.32
+6677438474227429628,Amazon Polly,Matthew,emojis,TL,"🚨 Kagad, mangyaring basahin. 🚨",30,0.29
+5361920672947547883,Amazon Polly,Matthew,emojis,TL,🚨👀🚚🥇📦👇,6,0.32
+9109521741346942078,Amazon Polly,Matthew,emojis,cmn-CN,🚨 緊急，請閱讀。 🚨,11,0.24
+5361920672947547883,Amazon Polly,Matthew,emojis,cmn-CN,🚨👀🚚🥇📦👇,6,0.23
+4918204017505524486,Amazon Polly,Matthew,formatted,en-US,"We met with 4 stakeholders from Grand Island Express yesterday. Good meeting. They're engaged. Huge potential to improve their predictability of delivery and save them time in what currently requires lots of phone calls and emails between dispatcher and driver. Takeaways:
+ - The Fleet Manager is the person we are optimizing for.
+ - They stand the most to gain from a voice messaging solution where they can have active 1-1 conversations with 50+ drivers in a single day to coordinate receipt timelines and re-route as necessary.
+ - There are some language barriers which we can solve partially with translated transcripts (today) and fully with audio2audio translations in the future
+ - This workflow has direct and indirect bottom line potential: cost savings vs the translation service they use today, greater predictability for customers = improved reputation and bookings, potential to deliver faster and limit driver downtime because they can more readily predict delivery timelines and solve for receivership and backhaul implications",1042,1.1
+6425407567932154140,Amazon Polly,Matthew,formatted,es-ES,"Ayer nos reunimos con 4 partes interesadas de Grand Island Express. Buena reunión. Están comprometidos. Enorme potencial para mejorar su previsibilidad de entrega y ahorrarles tiempo en lo que actualmente requiere muchas llamadas telefónicas y correos electrónicos entre el despachador y el conductor. Conclusiones:
+ - El administrador de flota es la persona para la que estamos optimizando.
+ - Son los que más pueden ganar con una solución de mensajería de voz donde pueden tener conversaciones individuales activas con más de 50 conductores en un solo día para coordinar los plazos de recepción y desviar la ruta según sea necesario.
+ - Existen algunas barreras del idioma que podemos resolver parcialmente con transcripciones traducidas (hoy) y completamente con traducciones audio2audio en el futuro.
+ - Este flujo de trabajo tiene potencial directo e indirecto: ahorro de costos en comparación con el servicio de traducción que utilizan hoy, mayor previsibilidad para los clientes. = reputación y reservas mejoradas, potencial para realizar entregas más rápido y limitar el tiempo de inactividad de los conductores porque pueden predecir más fácilmente los plazos de entrega y resolver las implicaciones de la administración judicial y el backhaul",1252,1.23
+6425407567932154140,Amazon Polly,Matthew,formatted,es-MX,"Ayer nos reunimos con 4 partes interesadas de Grand Island Express. Buena reunión. Están comprometidos. Enorme potencial para mejorar su previsibilidad de entrega y ahorrarles tiempo en lo que actualmente requiere muchas llamadas telefónicas y correos electrónicos entre el despachador y el conductor. Conclusiones:
+ - El administrador de flota es la persona para la que estamos optimizando.
+ - Son los que más pueden ganar con una solución de mensajería de voz donde pueden tener conversaciones individuales activas con más de 50 conductores en un solo día para coordinar los plazos de recepción y desviar la ruta según sea necesario.
+ - Existen algunas barreras del idioma que podemos resolver parcialmente con transcripciones traducidas (hoy) y completamente con traducciones audio2audio en el futuro.
+ - Este flujo de trabajo tiene potencial directo e indirecto: ahorro de costos en comparación con el servicio de traducción que utilizan hoy, mayor previsibilidad para los clientes. = reputación y reservas mejoradas, potencial para realizar entregas más rápido y limitar el tiempo de inactividad de los conductores porque pueden predecir más fácilmente los plazos de entrega y resolver las implicaciones de la administración judicial y el backhaul",1252,1.15
+3470770365983166614,Amazon Polly,Matthew,formatted,pt-PT,"Ontem nos reunimos com 4 partes interessadas da Grand Island Express. Bom encontro. Eles estão noivos. Enorme potencial para melhorar a previsibilidade de entrega e economizar tempo no que atualmente exige muitos telefonemas e e-mails entre o despachante e o motorista. Conclusões:
+ - O Gerente de Frota é a pessoa para quem estamos otimizando.
+ - Eles têm mais a ganhar com uma solução de mensagens de voz onde podem ter conversas individuais ativas com mais de 50 motoristas em um único dia para coordenar os cronogramas de recebimento e redirecionar conforme necessário.
+ - Existem algumas barreiras linguísticas que podemos resolver parcialmente com transcrições traduzidas (hoje) e totalmente com traduções audio2audio no futuro
+ - Este fluxo de trabalho tem potencial direto e indireto de resultados: economia de custos em comparação com o serviço de tradução que utilizam hoje, maior previsibilidade para os clientes = melhor reputação e reservas, potencial para entregar mais rapidamente e limitar o tempo de inatividade do motorista porque eles podem prever mais prontamente os prazos de entrega e resolver implicações de recuperação judicial e backhaul",1162,0.97
+4189500949332467639,Amazon Polly,Matthew,formatted,fr-FR,"Nous avons rencontré hier 4 parties prenantes de Grand Island Express. Bonne rencontre. Ils sont fiancés. Un énorme potentiel pour améliorer leur prévisibilité de livraison et leur faire gagner du temps dans ce qui nécessite actuellement de nombreux appels téléphoniques et e-mails entre le répartiteur et le chauffeur. À retenir :
+ - Le gestionnaire de flotte est la personne pour laquelle nous optimisons.
+ - Ce sont eux qui ont le plus à gagner d'une solution de messagerie vocale qui leur permet d'avoir des conversations actives en tête-à-tête avec plus de 50 chauffeurs en une seule journée pour coordonner les délais de réception et réacheminer si nécessaire.
+ - Il existe certaines barrières linguistiques que nous pouvons résoudre partiellement avec des transcriptions traduites (aujourd'hui) et entièrement avec des traductions audio-audio à l'avenir.
+ - Ce flux de travail a un potentiel de résultat direct et indirect : économies de coûts par rapport au service de traduction qu'ils utilisent aujourd'hui, plus grande prévisibilité pour les clients. = amélioration de la réputation et des réservations, possibilité de livrer plus rapidement et de limiter les temps d'arrêt des chauffeurs, car ils peuvent plus facilement prédire les délais de livraison et résoudre les implications en matière de mise sous séquestre et de transport.",1344,1.04
+4189500949332467639,Amazon Polly,Matthew,formatted,fr-CA,"Nous avons rencontré hier 4 parties prenantes de Grand Island Express. Bonne rencontre. Ils sont fiancés. Un énorme potentiel pour améliorer leur prévisibilité de livraison et leur faire gagner du temps dans ce qui nécessite actuellement de nombreux appels téléphoniques et e-mails entre le répartiteur et le chauffeur. À retenir :
+ - Le gestionnaire de flotte est la personne pour laquelle nous optimisons.
+ - Ce sont eux qui ont le plus à gagner d'une solution de messagerie vocale qui leur permet d'avoir des conversations actives en tête-à-tête avec plus de 50 chauffeurs en une seule journée pour coordonner les délais de réception et réacheminer si nécessaire.
+ - Il existe certaines barrières linguistiques que nous pouvons résoudre partiellement avec des transcriptions traduites (aujourd'hui) et entièrement avec des traductions audio-audio à l'avenir.
+ - Ce flux de travail a un potentiel de résultat direct et indirect : économies de coûts par rapport au service de traduction qu'ils utilisent aujourd'hui, plus grande prévisibilité pour les clients. = amélioration de la réputation et des réservations, possibilité de livrer plus rapidement et de limiter les temps d'arrêt des chauffeurs, car ils peuvent plus facilement prédire les délais de livraison et résoudre les implications en matière de mise sous séquestre et de transport.",1344,1.12
+854073045675826158,Amazon Polly,Matthew,formatted,TL,"Nakipagpulong kami sa 4 na stakeholder mula sa Grand Island Express kahapon. Magandang pagpupulong. engaged na sila. Malaking potensyal na mapabuti ang kanilang predicability ng paghahatid at makatipid sa kanila ng oras sa kasalukuyang nangangailangan ng maraming tawag sa telepono at email sa pagitan ng dispatcher at driver. Takeaways:
+ - Ang Fleet Manager ay ang taong ino-optimize namin.
+ - Pinakamahusay silang makamit mula sa isang voice messaging solution kung saan maaari silang magkaroon ng aktibong 1-1 na pag-uusap sa 50+ na driver sa isang araw upang i-coordinate ang mga timeline ng resibo at muling ruta kung kinakailangan.
+ - Mayroong ilang mga hadlang sa wika na bahagyang malulutas namin gamit ang mga isinaling transcript (ngayon) at ganap na may mga pagsasalin ng audio2audio sa hinaharap
+ - Ang daloy ng trabaho na ito ay may direkta at hindi direktang potensyal na pang-ibabaw: makatipid sa gastos kumpara sa serbisyo ng pagsasalin na ginagamit nila ngayon, mas mahuhulaan para sa mga customer = pinahusay na reputasyon at mga booking, potensyal na makapaghatid ng mas mabilis at limitahan ang downtime ng driver dahil mas madali nilang mahulaan ang mga timeline ng paghahatid at malutas ang mga implikasyon ng receivership at backhaul",1256,1.21
+386582921437642723,Amazon Polly,Matthew,formatted,cmn-CN,"昨天我们会见了 Grand Island Express 的 4 位利益相关者。 很好的会议。 他们订婚了。 提高送货的可预测性并节省时间的巨大潜力，因为目前调度员和司机之间需要大量的电话和电子邮件。 要点：
+ - 车队经理是我们正在优化的人。
+ - 他们从语音消息解决方案中获益最多，在该解决方案中，他们可以在一天内与 50 多名司机进行积极的 1-1 对话，以协调收货时间表并根据需要重新安排路线。
+ - 有一些语言障碍，我们可以通过翻译文本（今天）部分解决，并在未来通过音频到音频翻译完全解决
+ - 此工作流程具有直接和间接的底线潜力：与他们今天使用的翻译服务相比，可以节省成本，为客户提供更高的可预测性 = 提高声誉和预订量，加快交付速度并限制司机停机时间的潜力，因为他们可以更轻松地预测交付时间并解决接管和回程影响",362,1.0
+1140210164819398317,Amazon Polly,Matthew,numbers_and_acronyms,en-US,The receiver is located at 1567 W Oakley St. Take the RH turn at Main St. Whats your ETA? They are expecting you at 2:30pm CT. Go to https://espn.com to learn more.,164,0.42
+5970681710698332572,Amazon Polly,Matthew,numbers_and_acronyms,es-ES,El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información.,186,0.45
+5970681710698332572,Amazon Polly,Matthew,numbers_and_acronyms,es-MX,El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información.,186,0.42
+8694808230422986754,Amazon Polly,Matthew,numbers_and_acronyms,pt-PT,O receptor está localizado em 1567 W Oakley St. Faça a curva RH na Main St. Qual é o seu HEC? Eles estão esperando você às 14h30 CT. Acesse https://espn.com para saber mais.,173,0.42
+8896148642422083531,Amazon Polly,Matthew,numbers_and_acronyms,fr-FR,Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus.,184,0.38
+8896148642422083531,Amazon Polly,Matthew,numbers_and_acronyms,fr-CA,Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus.,184,0.37
+1582437560468830215,Amazon Polly,Matthew,numbers_and_acronyms,TL,Ang receiver ay matatagpuan sa 1567 W Oakley St. Lumiko sa RH sa Main St. Ano ang iyong ETA? Inaasahan ka nila sa 2:30pm CT. Pumunta sa https://espn.com para matuto pa.,168,0.43
+7486378329682603111,Amazon Polly,Matthew,numbers_and_acronyms,cmn-CN,接收器位于 1567 W Oakley St。在 Main St 右转。您的预计到达时间是多少？ 他们将于中部时间下午 2:30 等您。 请访问 https://espn.com 了解更多信息。,97,0.43
+30008376820932919,Amazon Polly,Matthew,names,en-US,Wendy Thompson from Acme Supply in Chattanooga is expecting you to call Ryan McGarvey and JP Gooderham this afternoon. Nick DePrey is also awaiting your call.,158,0.37
+6393641935225586434,Amazon Polly,Matthew,names,es-ES,Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada.,151,0.35
+6393641935225586434,Amazon Polly,Matthew,names,es-MX,Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada.,151,0.35
+5199655048093542050,Amazon Polly,Matthew,names,pt-PT,"Wendy Thompson, da Acme Supply em Chattanooga, espera que você ligue para Ryan McGarvey e JP Gooderham esta tarde. Nick DePrey também está aguardando sua ligação.",162,0.36
+6635751619954187463,Amazon Polly,Matthew,names,fr-FR,Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel.,162,0.38
+6635751619954187463,Amazon Polly,Matthew,names,fr-CA,Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel.,162,0.37
+5299146490376435236,Amazon Polly,Matthew,names,TL,Inaasahan ni Wendy Thompson mula sa Acme Supply sa Chattanooga na tatawagan mo sina Ryan McGarvey at JP Gooderham ngayong hapon. Hinihintay din ni Nick DePrey ang iyong tawag.,175,0.38
+3821960233339351663,Amazon Polly,Matthew,names,cmn-CN,查塔努加 Acme Supply 的 Wendy Thompson 希望您今天下午给 Ryan McGarvey 和 JP Gooderham 打电话。,76,0.34
+5389543053074901612,Coqui,Ilkin Urbano,simple,en-US,Hello. how are you?,19,2.49
+5066344976214438695,Coqui,Ilkin Urbano,simple,en-US,The quick brown fox jumps over the lazy dog.,44,1.79
+9215803895744956750,Coqui,Ilkin Urbano,simple,en-US,Peter Piper picked a pack of pickled peppers.,45,1.43
+3182540953713316877,Coqui,Ilkin Urbano,simple,es-ES,Hola. ¿Cómo estás?,18,1.46
+8784352254280886338,Coqui,Ilkin Urbano,simple,es-ES,El rápido zorro marrón salta sobre el perro perezoso.,53,1.57
+2002111830274401159,Coqui,Ilkin Urbano,simple,es-ES,Peter Piper eligió un paquete de pimientos encurtidos.,54,2.28
+3182540953713316877,Coqui,Ilkin Urbano,simple,es-MX,Hola. ¿Cómo estás?,18,1.97
+8784352254280886338,Coqui,Ilkin Urbano,simple,es-MX,El rápido zorro marrón salta sobre el perro perezoso.,53,2.11
+1082269302267074834,Coqui,Ilkin Urbano,simple,es-MX,Peter Piper recogió un paquete de pimientos encurtidos.,55,3.09
+61379386528548510,Coqui,Ilkin Urbano,simple,pt-PT,Olá. Como você está?,20,2.28
+8998559571354021851,Coqui,Ilkin Urbano,simple,pt-PT,A rápida raposa marrom pula sobre o cachorro preguiçoso.,56,3.12
+7464022571890312868,Coqui,Ilkin Urbano,simple,pt-PT,Peter Piper pegou um pacote de pimentos em conserva.,52,2.18
+7490761626465514142,Coqui,Ilkin Urbano,simple,fr-FR,Bonjour. Comment allez-vous ?,29,2.24
+7631072064185104517,Coqui,Ilkin Urbano,simple,fr-FR,Le rapide renard brun saute par-dessus le chien paresseux.,58,1.83
+5409407387125123914,Coqui,Ilkin Urbano,simple,fr-FR,Peter Piper a cueilli un paquet de poivrons marinés.,52,2.67
+7490761626465514142,Coqui,Ilkin Urbano,simple,fr-CA,Bonjour. Comment allez-vous ?,29,1.44
+6869493858577139118,Coqui,Ilkin Urbano,simple,fr-CA,Le renard brun saute par-dessus le chien paresseux.,51,3.05
+5409407387125123914,Coqui,Ilkin Urbano,simple,fr-CA,Peter Piper a cueilli un paquet de poivrons marinés.,52,2.68
+4648691054174749092,Coqui,Ilkin Urbano,simple,TL,Kumusta. Kumusta ka?,20,1.79
+6137211549374022918,Coqui,Ilkin Urbano,simple,TL,Tumalon ang mabilis na kayumanggi na lobos sa tamad na aso.,59,2.96
+2012773337416190725,Coqui,Ilkin Urbano,simple,TL,Pumili ni Peter Piper ng isang pakete ng mga inakado na paminta.,64,2.97
+2567662458351456569,Coqui,Ilkin Urbano,simple,cmn-CN,你好你好嗎,5,1.37
+6702200584827349911,Coqui,Ilkin Urbano,simple,cmn-CN,快速的棕色狐狸跳過懶狗。,12,1.91
+8581038434140867371,Coqui,Ilkin Urbano,simple,cmn-CN,彼得·派珀摘了一包醃辣椒。,13,1.59
+8399557637167628828,Coqui,Ilkin Urbano,punctuation,en-US,What is your estimated time of arrival?,39,2.72
+5926794125787674537,Coqui,Ilkin Urbano,punctuation,en-US,What is your estimated time of arrival?!,40,1.73
+2091401229509318023,Coqui,Ilkin Urbano,punctuation,en-US,What is your estimated time of arrival!,39,2.77
+1500458210669381575,Coqui,Ilkin Urbano,punctuation,en-US,WHAT IS YOUR ESTIMATED TIME OF ARIVAL,37,2.35
+2541349148368139661,Coqui,Ilkin Urbano,punctuation,es-ES,¿Cuál es su hora estimada de llegada?,37,2.15
+7328600967710534853,Coqui,Ilkin Urbano,punctuation,es-ES,¡Cuál es su hora estimada de llegada?,37,1.69
+1368666408216340893,Coqui,Ilkin Urbano,punctuation,es-ES,¡Cuál es su hora estimada de llegada!,37,2.77
+6953182421991353529,Coqui,Ilkin Urbano,punctuation,es-ES,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,1.64
+2541349148368139661,Coqui,Ilkin Urbano,punctuation,es-MX,¿Cuál es su hora estimada de llegada?,37,2.83
+7328600967710534853,Coqui,Ilkin Urbano,punctuation,es-MX,¡Cuál es su hora estimada de llegada?,37,1.65
+1368666408216340893,Coqui,Ilkin Urbano,punctuation,es-MX,¡Cuál es su hora estimada de llegada!,37,2.22
+6953182421991353529,Coqui,Ilkin Urbano,punctuation,es-MX,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,1.97
+3120540659098705254,Coqui,Ilkin Urbano,punctuation,pt-PT,Qual é a sua hora estimada de chegada?,38,1.92
+6489092215772446244,Coqui,Ilkin Urbano,punctuation,pt-PT,Qual é a sua hora estimada de chegada?!,39,2.94
+7970954367200009432,Coqui,Ilkin Urbano,punctuation,pt-PT,Qual é a sua hora estimada de chegada!,38,1.76
+542887017674631525,Coqui,Ilkin Urbano,punctuation,pt-PT,QUAL É A SUA HORA ESTIMADA DE CHEGADA,37,1.61
+5975122571809900486,Coqui,Ilkin Urbano,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?,42,1.37
+8937061958364331162,Coqui,Ilkin Urbano,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée !,42,2.28
+6574703509157853417,Coqui,Ilkin Urbano,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?!,43,1.68
+5904095262849295775,Coqui,Ilkin Urbano,punctuation,fr-FR,QUELLE EST VOTRE HEURE D'ARRIVÉE ESTIMÉE,40,2.05
+5524549484161776881,Coqui,Ilkin Urbano,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?,41,1.68
+3083870954718101758,Coqui,Ilkin Urbano,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?!,42,2.48
+4070524735328127872,Coqui,Ilkin Urbano,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue !,41,2.23
+1377429980566466709,Coqui,Ilkin Urbano,punctuation,fr-CA,QUELLE EST VOTRE HEURE D'ARRIVÉE PRÉVUE,39,2.23
+453421860188138072,Coqui,Ilkin Urbano,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?,43,2.86
+1393850640430908664,Coqui,Ilkin Urbano,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?!,44,2.09
+4465282389802427140,Coqui,Ilkin Urbano,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating!,43,2.62
+3581862246464957730,Coqui,Ilkin Urbano,punctuation,TL,ANO ANG IYONG TINATAYANG ORAS NG PAGDATING,42,2.33
+1476471981664132518,Coqui,Ilkin Urbano,punctuation,cmn-CN,您的預計抵達時間是多少？,12,1.67
+3455120490608936407,Coqui,Ilkin Urbano,punctuation,cmn-CN,您的預計抵達時間是多少 ?!,14,1.99
+5287535665104760018,Coqui,Ilkin Urbano,punctuation,cmn-CN,您的預計抵達時間是多少 !,13,2.33
+3044520220937139005,Coqui,Ilkin Urbano,punctuation,cmn-CN,您的預計抵達時間是多少,11,2.12
+3761834604770913808,Coqui,Ilkin Urbano,emojis,en-US,"🚨 Urgent, please read. 🚨",24,1.73
+8395597678965418347,Coqui,Ilkin Urbano,emojis,en-US,🚨👀🚚🥇📦👇,6,2.91
+7688319924097264314,Coqui,Ilkin Urbano,emojis,es-ES,"🚨 Urgente, por favor lee. 🚨",27,1.84
+8395597678965418347,Coqui,Ilkin Urbano,emojis,es-ES,🚨👀🚚🥇📦👇,6,2.8
+6134630156339911179,Coqui,Ilkin Urbano,emojis,es-MX,"🚨 Urgente, por favor lea. 🚨",27,2.17
+8395597678965418347,Coqui,Ilkin Urbano,emojis,es-MX,🚨👀🚚🥇📦👇,6,2.36
+3877872445197704672,Coqui,Ilkin Urbano,emojis,pt-PT,"🚨 Urgente, por favor, leia. 🚨",29,1.81
+8395597678965418347,Coqui,Ilkin Urbano,emojis,pt-PT,🚨👀🚚🥇📦👇,6,2.38
+1473448147527846640,Coqui,Ilkin Urbano,emojis,fr-FR,"🚨 C'est urgent, veuillez lire. 🚨",32,2.78
+8395597678965418347,Coqui,Ilkin Urbano,emojis,fr-FR,🚨👀🚚🥇📦👇,6,2.75
+5165387091800739433,Coqui,Ilkin Urbano,emojis,fr-CA,"🚨 Urgent, veuillez lire. 🚨",26,1.72
+8395597678965418347,Coqui,Ilkin Urbano,emojis,fr-CA,🚨👀🚚🥇📦👇,6,2.29
+5859734739491421572,Coqui,Ilkin Urbano,emojis,TL,"🚨 Kagad, mangyaring basahin. 🚨",30,1.65
+8395597678965418347,Coqui,Ilkin Urbano,emojis,TL,🚨👀🚚🥇📦👇,6,1.35
+2911822502834345345,Coqui,Ilkin Urbano,emojis,cmn-CN,🚨 緊急，請閱讀。 🚨,11,1.69
+8395597678965418347,Coqui,Ilkin Urbano,emojis,cmn-CN,🚨👀🚚🥇📦👇,6,1.74
+8692451500881838389,Coqui,Ilkin Urbano,numbers_and_acronyms,en-US,The receiver is located at 1567 W Oakley St. Take the RH turn at Main St. Whats your ETA? They are expecting you at 2:30pm CT. Go to https://espn.com to learn more.,164,4.41
+1235319246025406802,Coqui,Ilkin Urbano,numbers_and_acronyms,es-ES,El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información.,186,7.62
+1235319246025406802,Coqui,Ilkin Urbano,numbers_and_acronyms,es-MX,El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información.,186,4.48
+3525549715201318010,Coqui,Ilkin Urbano,numbers_and_acronyms,pt-PT,O receptor está localizado em 1567 W Oakley St. Faça a curva RH na Main St. Qual é o seu HEC? Eles estão esperando você às 14h30 CT. Acesse https://espn.com para saber mais.,173,5.14
+1841770870840151382,Coqui,Ilkin Urbano,numbers_and_acronyms,fr-FR,Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus.,184,4.26
+1841770870840151382,Coqui,Ilkin Urbano,numbers_and_acronyms,fr-CA,Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus.,184,4.07
+3742347264205782463,Coqui,Ilkin Urbano,numbers_and_acronyms,TL,Ang receiver ay matatagpuan sa 1567 W Oakley St. Lumiko sa RH sa Main St. Ano ang iyong ETA? Inaasahan ka nila sa 2:30pm CT. Pumunta sa https://espn.com para matuto pa.,168,5.66
+7047883938411448920,Coqui,Ilkin Urbano,numbers_and_acronyms,cmn-CN,接收器位于 1567 W Oakley St。在 Main St 右转。您的预计到达时间是多少？ 他们将于中部时间下午 2:30 等您。 请访问 https://espn.com 了解更多信息。,97,5.38
+8048816996599383143,Coqui,Ilkin Urbano,names,en-US,Wendy Thompson from Acme Supply in Chattanooga is expecting you to call Ryan McGarvey and JP Gooderham this afternoon. Nick DePrey is also awaiting your call.,158,4.94
+5242266286776747424,Coqui,Ilkin Urbano,names,es-ES,Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada.,151,3.25
+5242266286776747424,Coqui,Ilkin Urbano,names,es-MX,Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada.,151,2.78
+8396087966860668617,Coqui,Ilkin Urbano,names,pt-PT,"Wendy Thompson, da Acme Supply em Chattanooga, espera que você ligue para Ryan McGarvey e JP Gooderham esta tarde. Nick DePrey também está aguardando sua ligação.",162,3.25
+7302867606832354353,Coqui,Ilkin Urbano,names,fr-FR,Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel.,162,4.02
+7302867606832354353,Coqui,Ilkin Urbano,names,fr-CA,Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel.,162,3.36
+6199227491114819499,Coqui,Ilkin Urbano,names,TL,Inaasahan ni Wendy Thompson mula sa Acme Supply sa Chattanooga na tatawagan mo sina Ryan McGarvey at JP Gooderham ngayong hapon. Hinihintay din ni Nick DePrey ang iyong tawag.,175,3.81
+4238572701299708570,Coqui,Ilkin Urbano,names,cmn-CN,查塔努加 Acme Supply 的 Wendy Thompson 希望您今天下午给 Ryan McGarvey 和 JP Gooderham 打电话。,76,2.84
+6577458620026095012,Coqui,Ana Florence,simple,en-US,Hello. how are you?,19,2.13
+5924913592959872070,Coqui,Ana Florence,simple,en-US,The quick brown fox jumps over the lazy dog.,44,1.79
+770131622212104595,Coqui,Ana Florence,simple,en-US,Peter Piper picked a pack of pickled peppers.,45,1.61
+1186424341168836175,Coqui,Ana Florence,simple,es-ES,Hola. ¿Cómo estás?,18,1.52
+6088004418959580464,Coqui,Ana Florence,simple,es-ES,El rápido zorro marrón salta sobre el perro perezoso.,53,2.06
+842156347938835601,Coqui,Ana Florence,simple,es-ES,Peter Piper eligió un paquete de pimientos encurtidos.,54,2.22
+1186424341168836175,Coqui,Ana Florence,simple,es-MX,Hola. ¿Cómo estás?,18,1.72
+6088004418959580464,Coqui,Ana Florence,simple,es-MX,El rápido zorro marrón salta sobre el perro perezoso.,53,3.08
+4501815054091329178,Coqui,Ana Florence,simple,es-MX,Peter Piper recogió un paquete de pimientos encurtidos.,55,2.95
+3010181196582784646,Coqui,Ana Florence,simple,pt-PT,Olá. Como você está?,20,1.6
+5150479753423518741,Coqui,Ana Florence,simple,pt-PT,A rápida raposa marrom pula sobre o cachorro preguiçoso.,56,1.96
+1891675931924919157,Coqui,Ana Florence,simple,pt-PT,Peter Piper pegou um pacote de pimentos em conserva.,52,2.42
+4429299533862105728,Coqui,Ana Florence,simple,fr-FR,Bonjour. Comment allez-vous ?,29,1.93
+342240826200768516,Coqui,Ana Florence,simple,fr-FR,Le rapide renard brun saute par-dessus le chien paresseux.,58,2.93
+4232391173734677864,Coqui,Ana Florence,simple,fr-FR,Peter Piper a cueilli un paquet de poivrons marinés.,52,2.59
+4429299533862105728,Coqui,Ana Florence,simple,fr-CA,Bonjour. Comment allez-vous ?,29,1.47
+4835761484052511769,Coqui,Ana Florence,simple,fr-CA,Le renard brun saute par-dessus le chien paresseux.,51,2.07
+4232391173734677864,Coqui,Ana Florence,simple,fr-CA,Peter Piper a cueilli un paquet de poivrons marinés.,52,2.57
+7267678737157286944,Coqui,Ana Florence,simple,TL,Kumusta. Kumusta ka?,20,2.3
+4720015373552838403,Coqui,Ana Florence,simple,TL,Tumalon ang mabilis na kayumanggi na lobos sa tamad na aso.,59,2.86
+7608956908746443977,Coqui,Ana Florence,simple,TL,Pumili ni Peter Piper ng isang pakete ng mga inakado na paminta.,64,3.26
+130607360157933120,Coqui,Ana Florence,simple,cmn-CN,你好你好嗎,5,1.54
+5275657049351795514,Coqui,Ana Florence,simple,cmn-CN,快速的棕色狐狸跳過懶狗。,12,1.55
+215889691473625959,Coqui,Ana Florence,simple,cmn-CN,彼得·派珀摘了一包醃辣椒。,13,1.6
+3189371484300688459,Coqui,Ana Florence,punctuation,en-US,What is your estimated time of arrival?,39,2.56
+5327277387705531129,Coqui,Ana Florence,punctuation,en-US,What is your estimated time of arrival?!,40,1.52
+252271888465727203,Coqui,Ana Florence,punctuation,en-US,What is your estimated time of arrival!,39,1.68
+68619460368943752,Coqui,Ana Florence,punctuation,en-US,WHAT IS YOUR ESTIMATED TIME OF ARIVAL,37,1.7
+7207654936836882894,Coqui,Ana Florence,punctuation,es-ES,¿Cuál es su hora estimada de llegada?,37,1.97
+6162156363382713527,Coqui,Ana Florence,punctuation,es-ES,¡Cuál es su hora estimada de llegada?,37,1.53
+5276893465641410296,Coqui,Ana Florence,punctuation,es-ES,¡Cuál es su hora estimada de llegada!,37,4.86
+3827767685988492205,Coqui,Ana Florence,punctuation,es-ES,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,1.62
+7207654936836882894,Coqui,Ana Florence,punctuation,es-MX,¿Cuál es su hora estimada de llegada?,37,1.83
+6162156363382713527,Coqui,Ana Florence,punctuation,es-MX,¡Cuál es su hora estimada de llegada?,37,1.74
+5276893465641410296,Coqui,Ana Florence,punctuation,es-MX,¡Cuál es su hora estimada de llegada!,37,2.56
+3827767685988492205,Coqui,Ana Florence,punctuation,es-MX,CUÁL ES SU HORA ESTIMADA DE LLEGADA,35,1.42
+7249218442889761037,Coqui,Ana Florence,punctuation,pt-PT,Qual é a sua hora estimada de chegada?,38,2.72
+908265992996839190,Coqui,Ana Florence,punctuation,pt-PT,Qual é a sua hora estimada de chegada?!,39,1.6
+8303804116643699597,Coqui,Ana Florence,punctuation,pt-PT,Qual é a sua hora estimada de chegada!,38,2.46
+185891278839410036,Coqui,Ana Florence,punctuation,pt-PT,QUAL É A SUA HORA ESTIMADA DE CHEGADA,37,2.1
+7657044017122902064,Coqui,Ana Florence,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?,42,1.62
+1409403009926964792,Coqui,Ana Florence,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée !,42,1.42
+29568678766336743,Coqui,Ana Florence,punctuation,fr-FR,Quelle est votre heure d'arrivée estimée ?!,43,1.77
+3693670361996819348,Coqui,Ana Florence,punctuation,fr-FR,QUELLE EST VOTRE HEURE D'ARRIVÉE ESTIMÉE,40,1.76
+7272516804676393843,Coqui,Ana Florence,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?,41,2.0
+3047857226672787266,Coqui,Ana Florence,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue ?!,42,1.76
+3482417393542983895,Coqui,Ana Florence,punctuation,fr-CA,Quelle est votre heure d'arrivée prévue !,41,3.53
+3655801201189627248,Coqui,Ana Florence,punctuation,fr-CA,QUELLE EST VOTRE HEURE D'ARRIVÉE PRÉVUE,39,1.7
+622623794619947999,Coqui,Ana Florence,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?,43,2.18
+9223202538206770361,Coqui,Ana Florence,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating?!,44,2.92
+4923685621968962434,Coqui,Ana Florence,punctuation,TL,Ano ang iyong tinatayang oras ng pagdating!,43,2.03
+4066089021023287805,Coqui,Ana Florence,punctuation,TL,ANO ANG IYONG TINATAYANG ORAS NG PAGDATING,42,2.81
+1987222525973859846,Coqui,Ana Florence,punctuation,cmn-CN,您的預計抵達時間是多少？,12,1.85
+1470618976387576894,Coqui,Ana Florence,punctuation,cmn-CN,您的預計抵達時間是多少 ?!,14,2.26
+1471218545400256314,Coqui,Ana Florence,punctuation,cmn-CN,您的預計抵達時間是多少 !,13,1.33
+7930589702057870268,Coqui,Ana Florence,punctuation,cmn-CN,您的預計抵達時間是多少,11,1.9
+7940193223309119254,Coqui,Ana Florence,emojis,en-US,"🚨 Urgent, please read. 🚨",24,2.94
+5768137376022263890,Coqui,Ana Florence,emojis,en-US,🚨👀🚚🥇📦👇,6,1.51
+6366171244755431877,Coqui,Ana Florence,emojis,es-ES,"🚨 Urgente, por favor lee. 🚨",27,1.59
+5768137376022263890,Coqui,Ana Florence,emojis,es-ES,🚨👀🚚🥇📦👇,6,1.48
+6245523683540780778,Coqui,Ana Florence,emojis,es-MX,"🚨 Urgente, por favor lea. 🚨",27,1.88
+5768137376022263890,Coqui,Ana Florence,emojis,es-MX,🚨👀🚚🥇📦👇,6,1.81
+4277227827009250455,Coqui,Ana Florence,emojis,pt-PT,"🚨 Urgente, por favor, leia. 🚨",29,1.86
+5768137376022263890,Coqui,Ana Florence,emojis,pt-PT,🚨👀🚚🥇📦👇,6,2.7
+1297456708722689841,Coqui,Ana Florence,emojis,fr-FR,"🚨 C'est urgent, veuillez lire. 🚨",32,1.49
+5768137376022263890,Coqui,Ana Florence,emojis,fr-FR,🚨👀🚚🥇📦👇,6,1.45
+9150312376774717965,Coqui,Ana Florence,emojis,fr-CA,"🚨 Urgent, veuillez lire. 🚨",26,1.44
+5768137376022263890,Coqui,Ana Florence,emojis,fr-CA,🚨👀🚚🥇📦👇,6,1.47
+3419216878351690563,Coqui,Ana Florence,emojis,TL,"🚨 Kagad, mangyaring basahin. 🚨",30,1.95
+5768137376022263890,Coqui,Ana Florence,emojis,TL,🚨👀🚚🥇📦👇,6,1.8
+5193913617538050497,Coqui,Ana Florence,emojis,cmn-CN,🚨 緊急，請閱讀。 🚨,11,2.08
+5768137376022263890,Coqui,Ana Florence,emojis,cmn-CN,🚨👀🚚🥇📦👇,6,1.39
+2266728907823071300,Coqui,Ana Florence,numbers_and_acronyms,en-US,The receiver is located at 1567 W Oakley St. Take the RH turn at Main St. Whats your ETA? They are expecting you at 2:30pm CT. Go to https://espn.com to learn more.,164,4.43
+6266262091633835036,Coqui,Ana Florence,numbers_and_acronyms,es-ES,El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información.,186,5.56
+6266262091633835036,Coqui,Ana Florence,numbers_and_acronyms,es-MX,El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información.,186,3.98
+4588340091667631662,Coqui,Ana Florence,numbers_and_acronyms,pt-PT,O receptor está localizado em 1567 W Oakley St. Faça a curva RH na Main St. Qual é o seu HEC? Eles estão esperando você às 14h30 CT. Acesse https://espn.com para saber mais.,173,6.48
+5620506706265300301,Coqui,Ana Florence,numbers_and_acronyms,fr-FR,Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus.,184,4.52
+5620506706265300301,Coqui,Ana Florence,numbers_and_acronyms,fr-CA,Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus.,184,4.64
+7858317256633341614,Coqui,Ana Florence,numbers_and_acronyms,TL,Ang receiver ay matatagpuan sa 1567 W Oakley St. Lumiko sa RH sa Main St. Ano ang iyong ETA? Inaasahan ka nila sa 2:30pm CT. Pumunta sa https://espn.com para matuto pa.,168,4.7
+5621345422682662234,Coqui,Ana Florence,numbers_and_acronyms,cmn-CN,接收器位于 1567 W Oakley St。在 Main St 右转。您的预计到达时间是多少？ 他们将于中部时间下午 2:30 等您。 请访问 https://espn.com 了解更多信息。,97,2.92
+3232724726232903794,Coqui,Ana Florence,names,en-US,Wendy Thompson from Acme Supply in Chattanooga is expecting you to call Ryan McGarvey and JP Gooderham this afternoon. Nick DePrey is also awaiting your call.,158,3.27
+1107978672144331390,Coqui,Ana Florence,names,es-ES,Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada.,151,3.25
+1107978672144331390,Coqui,Ana Florence,names,es-MX,Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada.,151,4.43
+4094898703199224099,Coqui,Ana Florence,names,pt-PT,"Wendy Thompson, da Acme Supply em Chattanooga, espera que você ligue para Ryan McGarvey e JP Gooderham esta tarde. Nick DePrey também está aguardando sua ligação.",162,3.57
+2891258899949956105,Coqui,Ana Florence,names,fr-FR,Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel.,162,3.22
+2891258899949956105,Coqui,Ana Florence,names,fr-CA,Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel.,162,4.98
+8261124934103739176,Coqui,Ana Florence,names,TL,Inaasahan ni Wendy Thompson mula sa Acme Supply sa Chattanooga na tatawagan mo sina Ryan McGarvey at JP Gooderham ngayong hapon. Hinihintay din ni Nick DePrey ang iyong tawag.,175,5.8
+4289015766796275396,Coqui,Ana Florence,names,cmn-CN,查塔努加 Acme Supply 的 Wendy Thompson 希望您今天下午给 Ryan McGarvey 和 JP Gooderham 打电话。,76,2.77

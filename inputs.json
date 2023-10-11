@@ -1,0 +1,136 @@
+{
+	"plain_text": {
+		"simple": {
+			"en-US": [
+				"Hello. how are you?",
+				"The quick brown fox jumps over the lazy dog.",
+				"Peter Piper picked a pack of pickled peppers."
+			],
+			"es-ES": [
+				"Hola. ¿Cómo estás?",
+				"El rápido zorro marrón salta sobre el perro perezoso.",
+				"Peter Piper eligió un paquete de pimientos encurtidos."
+			],
+			"es-MX": [
+				"Hola. ¿Cómo estás?",
+				"El rápido zorro marrón salta sobre el perro perezoso.",
+				"Peter Piper recogió un paquete de pimientos encurtidos."
+			],
+			"pt-PT": [
+				"Olá. Como você está?",
+				"A rápida raposa marrom pula sobre o cachorro preguiçoso.",
+				"Peter Piper pegou um pacote de pimentos em conserva."
+			],
+			"fr-FR": [
+				"Bonjour. Comment allez-vous ?",
+				"Le rapide renard brun saute par-dessus le chien paresseux.",
+				"Peter Piper a cueilli un paquet de poivrons marinés."
+			],
+			"fr-CA": [
+				"Bonjour. Comment allez-vous ?",
+				"Le renard brun saute par-dessus le chien paresseux.",
+				"Peter Piper a cueilli un paquet de poivrons marinés."
+			],
+			"TL": [
+				"Kumusta. Kumusta ka?",
+				"Tumalon ang mabilis na kayumanggi na lobos sa tamad na aso.",
+				"Pumili ni Peter Piper ng isang pakete ng mga inakado na paminta."
+			],
+			"cmn-CN": [
+				"你好你好嗎",
+				"快速的棕色狐狸跳過懶狗。",
+				"彼得·派珀摘了一包醃辣椒。"
+			]
+		},
+		"punctuation": {
+			"en-US": [
+				"What is your estimated time of arrival?",
+				"What is your estimated time of arrival?!",
+				"What is your estimated time of arrival!",
+				"WHAT IS YOUR ESTIMATED TIME OF ARIVAL"
+			],
+			"es-ES": [
+				"¿Cuál es su hora estimada de llegada?",
+				"¡Cuál es su hora estimada de llegada?",
+				"¡Cuál es su hora estimada de llegada!",
+				"CUÁL ES SU HORA ESTIMADA DE LLEGADA"
+			],
+			"es-MX": [
+				"¿Cuál es su hora estimada de llegada?",
+				"¡Cuál es su hora estimada de llegada?",
+				"¡Cuál es su hora estimada de llegada!",
+				"CUÁL ES SU HORA ESTIMADA DE LLEGADA"
+			],
+			"pt-PT": [
+				"Qual é a sua hora estimada de chegada?",
+				"Qual é a sua hora estimada de chegada?!",
+				"Qual é a sua hora estimada de chegada!",
+				"QUAL É A SUA HORA ESTIMADA DE CHEGADA"
+			],
+			"fr-FR": [
+				"Quelle est votre heure d'arrivée estimée ?",
+				"Quelle est votre heure d'arrivée estimée !",
+				"Quelle est votre heure d'arrivée estimée ?!",
+				"QUELLE EST VOTRE HEURE D'ARRIVÉE ESTIMÉE"
+			],
+			"fr-CA": [
+				"Quelle est votre heure d'arrivée prévue ?",
+				"Quelle est votre heure d'arrivée prévue ?!",
+				"Quelle est votre heure d'arrivée prévue !",
+				"QUELLE EST VOTRE HEURE D'ARRIVÉE PRÉVUE"
+			],
+			"TL": [
+				"Ano ang iyong tinatayang oras ng pagdating?",
+				"Ano ang iyong tinatayang oras ng pagdating?!",
+				"Ano ang iyong tinatayang oras ng pagdating!",
+				"ANO ANG IYONG TINATAYANG ORAS NG PAGDATING"
+			],
+			"cmn-CN": [
+				"您的預計抵達時間是多少？",
+				"您的預計抵達時間是多少 ?!",
+				"您的預計抵達時間是多少 !",
+				"您的預計抵達時間是多少"
+			]
+		},
+		"emojis": {
+			"en-US": ["🚨 Urgent, please read. 🚨", "🚨👀🚚🥇📦👇"],
+			"es-ES": ["🚨 Urgente, por favor lee. 🚨", "🚨👀🚚🥇📦👇"],
+			"es-MX": ["🚨 Urgente, por favor lea. 🚨", "🚨👀🚚🥇📦👇"],
+			"pt-PT": ["🚨 Urgente, por favor, leia. 🚨", "🚨👀🚚🥇📦👇"],
+			"fr-FR": ["🚨 C'est urgent, veuillez lire. 🚨", "🚨👀🚚🥇📦👇"],
+			"fr-CA": ["🚨 Urgent, veuillez lire. 🚨", "🚨👀🚚🥇📦👇"],
+			"TL": ["🚨 Kagad, mangyaring basahin. 🚨", "🚨👀🚚🥇📦👇"],
+			"cmn-CN": ["🚨 緊急，請閱讀。 🚨", "🚨👀🚚🥇📦👇"]
+		},
+		"formatted": {
+			"en-US": ["We met with 4 stakeholders from Grand Island Express yesterday. Good meeting. They're engaged. Huge potential to improve their predictability of delivery and save them time in what currently requires lots of phone calls and emails between dispatcher and driver. Takeaways: - The Fleet Manager is the person we are optimizing for. - They stand the most to gain from a voice messaging solution where they can have active 1-1 conversations with 50+ drivers in a single day to coordinate receipt timelines and re-route as necessary. - There are some language barriers which we can solve partially with translated transcripts (today) and fully with audio2audio translations in the future - This workflow has direct and indirect bottom line potential: cost savings vs the translation service they use today, greater predictability for customers = improved reputation and bookings, potential to deliver faster and limit driver downtime because they can more readily predict delivery timelines and solve for receivership and backhaul implications"],
+			"es-ES": ["Ayer nos reunimos con 4 partes interesadas de Grand Island Express. Buena reunión. Están comprometidos. Enorme potencial para mejorar su previsibilidad de entrega y ahorrarles tiempo en lo que actualmente requiere muchas llamadas telefónicas y correos electrónicos entre el despachador y el conductor. Conclusiones: - El administrador de flota es la persona para la que estamos optimizando. - Son los que más pueden ganar con una solución de mensajería de voz donde pueden tener conversaciones individuales activas con más de 50 conductores en un solo día para coordinar los plazos de recepción y desviar la ruta según sea necesario. - Existen algunas barreras del idioma que podemos resolver parcialmente con transcripciones traducidas (hoy) y completamente con traducciones audio2audio en el futuro. - Este flujo de trabajo tiene potencial directo e indirecto: ahorro de costos en comparación con el servicio de traducción que utilizan hoy, mayor previsibilidad para los clientes. = reputación y reservas mejoradas, potencial para realizar entregas más rápido y limitar el tiempo de inactividad de los conductores porque pueden predecir más fácilmente los plazos de entrega y resolver las implicaciones de la administración judicial y el backhaul"],
+			"es-MX": ["Ayer nos reunimos con 4 partes interesadas de Grand Island Express. Buena reunión. Están comprometidos. Enorme potencial para mejorar su previsibilidad de entrega y ahorrarles tiempo en lo que actualmente requiere muchas llamadas telefónicas y correos electrónicos entre el despachador y el conductor. Conclusiones: - El administrador de flota es la persona para la que estamos optimizando. - Son los que más pueden ganar con una solución de mensajería de voz donde pueden tener conversaciones individuales activas con más de 50 conductores en un solo día para coordinar los plazos de recepción y desviar la ruta según sea necesario. - Existen algunas barreras del idioma que podemos resolver parcialmente con transcripciones traducidas (hoy) y completamente con traducciones audio2audio en el futuro. - Este flujo de trabajo tiene potencial directo e indirecto: ahorro de costos en comparación con el servicio de traducción que utilizan hoy, mayor previsibilidad para los clientes. = reputación y reservas mejoradas, potencial para realizar entregas más rápido y limitar el tiempo de inactividad de los conductores porque pueden predecir más fácilmente los plazos de entrega y resolver las implicaciones de la administración judicial y el backhaul"],
+			"pt-PT": ["Ontem nos reunimos com 4 partes interessadas da Grand Island Express. Bom encontro. Eles estão noivos. Enorme potencial para melhorar a previsibilidade de entrega e economizar tempo no que atualmente exige muitos telefonemas e e-mails entre o despachante e o motorista. Conclusões: - O Gerente de Frota é a pessoa para quem estamos otimizando. - Eles têm mais a ganhar com uma solução de mensagens de voz onde podem ter conversas individuais ativas com mais de 50 motoristas em um único dia para coordenar os cronogramas de recebimento e redirecionar conforme necessário. - Existem algumas barreiras linguísticas que podemos resolver parcialmente com transcrições traduzidas (hoje) e totalmente com traduções audio2audio no futuro - Este fluxo de trabalho tem potencial direto e indireto de resultados: economia de custos em comparação com o serviço de tradução que utilizam hoje, maior previsibilidade para os clientes = melhor reputação e reservas, potencial para entregar mais rapidamente e limitar o tempo de inatividade do motorista porque eles podem prever mais prontamente os prazos de entrega e resolver implicações de recuperação judicial e backhaul"],
+			"fr-FR": ["Nous avons rencontré hier 4 parties prenantes de Grand Island Express. Bonne rencontre. Ils sont fiancés. Un énorme potentiel pour améliorer leur prévisibilité de livraison et leur faire gagner du temps dans ce qui nécessite actuellement de nombreux appels téléphoniques et e-mails entre le répartiteur et le chauffeur. À retenir : - Le gestionnaire de flotte est la personne pour laquelle nous optimisons. - Ce sont eux qui ont le plus à gagner d'une solution de messagerie vocale qui leur permet d'avoir des conversations actives en tête-à-tête avec plus de 50 chauffeurs en une seule journée pour coordonner les délais de réception et réacheminer si nécessaire. - Il existe certaines barrières linguistiques que nous pouvons résoudre partiellement avec des transcriptions traduites (aujourd'hui) et entièrement avec des traductions audio-audio à l'avenir. - Ce flux de travail a un potentiel de résultat direct et indirect : économies de coûts par rapport au service de traduction qu'ils utilisent aujourd'hui, plus grande prévisibilité pour les clients. = amélioration de la réputation et des réservations, possibilité de livrer plus rapidement et de limiter les temps d'arrêt des chauffeurs, car ils peuvent plus facilement prédire les délais de livraison et résoudre les implications en matière de mise sous séquestre et de transport."],
+			"fr-CA": ["Nous avons rencontré hier 4 parties prenantes de Grand Island Express. Bonne rencontre. Ils sont fiancés. Un énorme potentiel pour améliorer leur prévisibilité de livraison et leur faire gagner du temps dans ce qui nécessite actuellement de nombreux appels téléphoniques et e-mails entre le répartiteur et le chauffeur. À retenir : - Le gestionnaire de flotte est la personne pour laquelle nous optimisons. - Ce sont eux qui ont le plus à gagner d'une solution de messagerie vocale qui leur permet d'avoir des conversations actives en tête-à-tête avec plus de 50 chauffeurs en une seule journée pour coordonner les délais de réception et réacheminer si nécessaire. - Il existe certaines barrières linguistiques que nous pouvons résoudre partiellement avec des transcriptions traduites (aujourd'hui) et entièrement avec des traductions audio-audio à l'avenir. - Ce flux de travail a un potentiel de résultat direct et indirect : économies de coûts par rapport au service de traduction qu'ils utilisent aujourd'hui, plus grande prévisibilité pour les clients. = amélioration de la réputation et des réservations, possibilité de livrer plus rapidement et de limiter les temps d'arrêt des chauffeurs, car ils peuvent plus facilement prédire les délais de livraison et résoudre les implications en matière de mise sous séquestre et de transport."],
+			"TL": ["Nakipagpulong kami sa 4 na stakeholder mula sa Grand Island Express kahapon. Magandang pagpupulong. engaged na sila. Malaking potensyal na mapabuti ang kanilang predicability ng paghahatid at makatipid sa kanila ng oras sa kasalukuyang nangangailangan ng maraming tawag sa telepono at email sa pagitan ng dispatcher at driver. Takeaways: - Ang Fleet Manager ay ang taong ino-optimize namin. - Pinakamahusay silang makamit mula sa isang voice messaging solution kung saan maaari silang magkaroon ng aktibong 1-1 na pag-uusap sa 50+ na driver sa isang araw upang i-coordinate ang mga timeline ng resibo at muling ruta kung kinakailangan. - Mayroong ilang mga hadlang sa wika na bahagyang malulutas namin gamit ang mga isinaling transcript (ngayon) at ganap na may mga pagsasalin ng audio2audio sa hinaharap - Ang daloy ng trabaho na ito ay may direkta at hindi direktang potensyal na pang-ibabaw: makatipid sa gastos kumpara sa serbisyo ng pagsasalin na ginagamit nila ngayon, mas mahuhulaan para sa mga customer = pinahusay na reputasyon at mga booking, potensyal na makapaghatid ng mas mabilis at limitahan ang downtime ng driver dahil mas madali nilang mahulaan ang mga timeline ng paghahatid at malutas ang mga implikasyon ng receivership at backhaul"],
+			"cmn-CN": ["昨天我们会见了 Grand Island Express 的 4 位利益相关者。 很好的会议。 他们订婚了。 提高送货的可预测性并节省时间的巨大潜力，因为目前调度员和司机之间需要大量的电话和电子邮件。 要点： - 车队经理是我们正在优化的人。 - 他们从语音消息解决方案中获益最多，在该解决方案中，他们可以在一天内与 50 多名司机进行积极的 1-1 对话，以协调收货时间表并根据需要重新安排路线。 - 有一些语言障碍，我们可以通过翻译文本（今天）部分解决，并在未来通过音频到音频翻译完全解决 - 此工作流程具有直接和间接的底线潜力：与他们今天使用的翻译服务相比，可以节省成本，为客户提供更高的可预测性 = 提高声誉和预订量，加快交付速度并限制司机停机时间的潜力，因为他们可以更轻松地预测交付时间并解决接管和回程影响"]
+		},
+		"numbers_and_acronyms": {
+			"en-US": ["The receiver is located at 1567 W Oakley St. Take the RH turn at Main St. Whats your ETA? They are expecting you at 2:30pm CT. Go to https://espn.com to learn more."],
+			"es-ES": ["El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información."],
+			"es-MX": ["El receptor está ubicado en 1567 W Oakley St. Tome el giro a la derecha en Main St. ¿Cuál es su ETA? Te esperan a las 2:30 p. m. CT. Vaya a https://espn.com para obtener más información."],
+			"pt-PT": ["O receptor está localizado em 1567 W Oakley St. Faça a curva RH na Main St. Qual é o seu HEC? Eles estão esperando você às 14h30 CT. Acesse https://espn.com para saber mais."],
+			"fr-FR": ["Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus."],
+			"fr-CA": ["Le récepteur est situé au 1567 W Oakley St. Prenez le virage à droite sur Main St. Quelle est votre ETA ? Ils vous attendent à 14h30 CT. Accédez à https://espn.com pour en savoir plus."],
+			"TL": ["Ang receiver ay matatagpuan sa 1567 W Oakley St. Lumiko sa RH sa Main St. Ano ang iyong ETA? Inaasahan ka nila sa 2:30pm CT. Pumunta sa https://espn.com para matuto pa."],
+			"cmn-CN": ["接收器位于 1567 W Oakley St。在 Main St 右转。您的预计到达时间是多少？ 他们将于中部时间下午 2:30 等您。 请访问 https://espn.com 了解更多信息。"]
+		},
+		"names": {
+			"en-US": ["Wendy Thompson from Acme Supply in Chattanooga is expecting you to call Ryan McGarvey and JP Gooderham this afternoon. Nick DePrey is also awaiting your call."],
+			"es-ES": ["Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada."],
+			"es-MX": ["Wendy Thompson de Acme Supply en Chattanooga espera que llame a Ryan McGarvey y JP Gooderham esta tarde. Nick DePrey también está esperando tu llamada."],
+			"pt-PT": ["Wendy Thompson, da Acme Supply em Chattanooga, espera que você ligue para Ryan McGarvey e JP Gooderham esta tarde. Nick DePrey também está aguardando sua ligação."],
+			"fr-FR": ["Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel."],
+			"fr-CA": ["Wendy Thompson d'Acme Supply à Chattanooga s'attend à ce que vous appeliez Ryan McGarvey et JP Gooderham cet après-midi. Nick DePrey attend également votre appel."],
+			"TL": ["Inaasahan ni Wendy Thompson mula sa Acme Supply sa Chattanooga na tatawagan mo sina Ryan McGarvey at JP Gooderham ngayong hapon. Hinihintay din ni Nick DePrey ang iyong tawag."],
+			"cmn-CN": ["查塔努加 Acme Supply 的 Wendy Thompson 希望您今天下午给 Ryan McGarvey 和 JP Gooderham 打电话。"]
+		}
+	}
+}
