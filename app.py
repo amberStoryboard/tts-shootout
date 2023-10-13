@@ -63,7 +63,7 @@ def render_service_page(service_selected):
     filtered_data = data[data["Service"] == service_selected]
 
     languages = filtered_data["Language"].unique()
-    if service_selected == "ValleX (open source version)":
+    if service_selected == "ValleX":
         st.write("[:red[This is not the actual Valle-X but an open  source model]](https://github.com/Plachtaa/VALL-E-X)")
         st.write("[Storyboard Valle-X Clone on Hugging Face](https://huggingface.co/spaces/storyboard-fm/VALL-E-X)")
         st.write("[Valle-X on Hugging Face](https://huggingface.co/spaces/Plachta/VALL-E-X)")
