@@ -65,6 +65,7 @@ def render_service_page(service_selected):
     languages = filtered_data["Language"].unique()
     if service_selected == "ValleX":
         st.write("[:red[This is not the actual Valle-X but an open  source model]](https://github.com/Plachtaa/VALL-E-X)")
+        st.write("[:red[Microsoft VALLE-X is still a research project and is unreleased]](https://learn.microsoft.com/en-us/answers/questions/1282211/how-do-we-gain-access-to-vall-e-what-type-of-subsc)")
         st.write("[Storyboard Valle-X Clone on Hugging Face](https://huggingface.co/spaces/storyboard-fm/VALL-E-X)")
         st.write("[Valle-X on Hugging Face](https://huggingface.co/spaces/Plachta/VALL-E-X)")
 
