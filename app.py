@@ -122,10 +122,18 @@ def render_service_page(service_selected):
         st.write(filtered_data)
 
         st.write('### Audio Samples')
+        
         # Dropdown for voice selection
         voice_selected = st.selectbox("Select a Voice", filtered_data["Voice"].unique())
         filtered_data_voice = filtered_data[filtered_data["Voice"] == voice_selected]
+        if service_selected == "Eleven Labs" and voice_selected == "JP":
+            st.write('#### Improved pronunciation samples')
+            st.write(':blue[Theses samples are the result of adjusting the settings of the "JP" voice to improve pronunciation.]')
 
+            st.write('##### Spanish')
+            st.audio('./audio/JP_Spanish.mp3', format='audio/mp3')
+            st.write('##### French')
+            st.audio('./audio/JP_French.mp3', format='audio/mp3')
         languages = filtered_data_voice["Language"].unique()
         for lang in languages:
             st.write(f"### Language: {lang}")
